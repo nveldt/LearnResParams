@@ -5,7 +5,7 @@ This repo contains code for algorithms and experiments from the paper
 Learning Resolution Parameters for Graph Clustering
 
 Nate Veldt, David Gleich, Anthony Wirth
-Proceedings of he 29th International Conference on World Wide Web.
+Proceedings of the 29th International Conference on World Wide Web.
 
 arXiv preprint: [https://arxiv.org/abs/1903.05246]()
 
