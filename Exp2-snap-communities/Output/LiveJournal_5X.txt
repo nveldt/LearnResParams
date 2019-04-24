@@ -1,0 +1,53 @@
+Assuming we known cut(X) and vol(X), and a superset of X of
+        size 5|X|, compare how well we detect X by finding the mininmum conductance
+        subset, and by learning alpha. 
+
+Community 1 has 522 nodes and a conductance of 0.207 
+Seed Set: |R| = 2610, condR = 0.7409, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.926004 	 RE = 0.83908 	 F1 = 0.880402 	 F2 = 0.710347 	 Size = 473 	 cond = 0.012143 	 Time = 14.338389873504639 
+Learning alpha: 	PR = 0.841603 	 RE = 0.844828 	 F1 = 0.843212 	 F2 = 0.703574 	 Size = 524 	 Cond = 0.017748 	 Time = 39.103981018066406 	 alphaBest = 0.5621875898564509 	 BestP = 1.0427506222513294
+
+Community 2 has 525 nodes and a conductance of 0.28 
+Seed Set: |R| = 2625, condR = 0.7551, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.805497 	 RE = 0.725714 	 F1 = 0.763527 	 F2 = 0.614913 	 Size = 473 	 cond = 0.012143 	 Time = 11.48358702659607 
+Learning alpha: 	PR = 0.719626 	 RE = 0.733333 	 F1 = 0.726415 	 F2 = 0.609177 	 Size = 535 	 Cond = 0.023966 	 Time = 37.05677604675293 	 alphaBest = 0.5621875898564509 	 BestP = 1.0590214240342004
+
+Community 3 has 800 nodes and a conductance of 0.577 
+Seed Set: |R| = 4000, condR = 0.7027, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.142857 	 RE = 0.01875 	 F1 = 0.033149 	 F2 = 0.01827 	 Size = 105 	 cond = 0.031171 	 Time = 16.305142164230347 
+Learning alpha: 	PR = 0.430514 	 RE = 0.91 	 F1 = 0.584504 	 F2 = 0.639606 	 Size = 1691 	 Cond = 0.091216 	 Time = 33.074350118637085 	 alphaBest = 0.5255670240706534 	 BestP = 1.054606661739206
+
+Community 4 has 893 nodes and a conductance of 0.614 
+Seed Set: |R| = 4465, condR = 0.2458, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.033628 	 RE = 0.021277 	 F1 = 0.026063 	 F2 = 0.018887 	 Size = 565 	 cond = 0.140031 	 Time = 5.944981098175049 
+Learning alpha: 	PR = 0.230305 	 RE = 0.982083 	 F1 = 0.373112 	 F2 = 0.530037 	 Size = 3808 	 Cond = 0.196741 	 Time = 24.931660890579224 	 alphaBest = 0.20643468957481054 	 BestP = 1.7558841730291301
+
+Community 5 has 936 nodes and a conductance of 0.413 
+Seed Set: |R| = 4680, condR = 0.5584, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.114286 	 RE = 0.012821 	 F1 = 0.023055 	 F2 = 0.012539 	 Size = 105 	 cond = 0.031171 	 Time = 16.85413694381714 
+Learning alpha: 	PR = 0.431144 	 RE = 0.946581 	 F1 = 0.592444 	 F2 = 0.657758 	 Size = 2055 	 Cond = 0.127189 	 Time = 33.79794192314148 	 alphaBest = 0.15102430154698684 	 BestP = 1.0859814797224792
+
+Community 6 has 946 nodes and a conductance of 0.163 
+Seed Set: |R| = 4730, condR = 0.2746, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.003584 	 RE = 0.002114 	 F1 = 0.00266 	 F2 = 0.001891 	 Size = 558 	 cond = 0.014844 	 Time = 16.53325605392456 
+Learning alpha: 	PR = 0.479793 	 RE = 0.978858 	 F1 = 0.64395 	 F2 = 0.695195 	 Size = 1930 	 Cond = 0.020589 	 Time = 33.130204916000366 	 alphaBest = 0.10626498457034342 	 BestP = 1.2609670672345075
+
+Community 7 has 1234 nodes and a conductance of 0.5 
+Seed Set: |R| = 6170, condR = 0.2034, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.253731 	 RE = 0.97812 	 F1 = 0.402938 	 F2 = 0.552302 	 Size = 4757 	 cond = 0.129514 	 Time = 9.371033906936646 
+Learning alpha: 	PR = 0.253731 	 RE = 0.97812 	 F1 = 0.402938 	 F2 = 0.552302 	 Size = 4757 	 Cond = 0.129514 	 Time = 20.22514796257019 	 alphaBest = 0.1295136492819696 	 BestP = 2.0964503170698956
+
+Community 8 has 1243 nodes and a conductance of 0.516 
+Seed Set: |R| = 6215, condR = 0.1847, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.229109 	 RE = 0.990346 	 F1 = 0.372128 	 F2 = 0.531153 	 Size = 5373 	 cond = 0.128738 	 Time = 11.85642385482788 
+Learning alpha: 	PR = 0.229109 	 RE = 0.990346 	 F1 = 0.372128 	 F2 = 0.531153 	 Size = 5373 	 Cond = 0.128738 	 Time = 19.652058839797974 	 alphaBest = 0.12873783936978728 	 BestP = 2.1533581305560467
+
+Community 9 has 1340 nodes and a conductance of 0.597 
+Seed Set: |R| = 6700, condR = 0.4995, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.36723 	 RE = 0.859701 	 F1 = 0.51463 	 F2 = 0.585544 	 Size = 3137 	 cond = 0.050406 	 Time = 12.929611206054688 
+Learning alpha: 	PR = 0.256027 	 RE = 0.958955 	 F1 = 0.404152 	 F2 = 0.548255 	 Size = 5019 	 Cond = 0.127308 	 Time = 34.689175844192505 	 alphaBest = 0.6670145697167755 	 BestP = 1.668026854581512
+
+Community 10 has 1441 nodes and a conductance of 0.602 
+Seed Set: |R| = 7205, condR = 0.5628, PR = 0.2, RE = 1.0, F1 = 0.3333 
+Minimum conduc: 	PR = 0.333333 	 RE = 0.002082 	 F1 = 0.004138 	 F2 = 0.002079 	 Size = 9 	 cond = 0.014085 	 Time = 21.224063873291016 
+Learning alpha: 	PR = 0.3417 	 RE = 0.878557 	 F1 = 0.492033 	 F2 = 0.580202 	 Size = 3705 	 Cond = 0.11246 	 Time = 37.765724897384644 	 alphaBest = 0.15132262323943663 	 BestP = 1.2835127205467587
