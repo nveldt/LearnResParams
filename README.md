@@ -9,11 +9,13 @@ Proceedings of the 29th International Conference on World Wide Web.
 
 arXiv preprint: [https://arxiv.org/abs/1903.05246]()
 
-The majority of the code is in the Julia progamming language (version 1.0). Some of the code is written in Matlab. 
+The majority of the code is in the Julia progamming language (version 1.0). Some of the code is written in Matlab, as some of the outside software is written in Matlab.
 
 ## Outside software
 
 Software from outside projects is included in the `include` folder.
+
+* LFR Benchmark graph generator: Package 1 from [https://sites.google.com/site/santofortunato/inthepress2]()
 
 * GenLouvain Algorithm:
 
