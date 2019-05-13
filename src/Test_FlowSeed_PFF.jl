@@ -6,7 +6,6 @@ include("../src/CutVol_MinPFF-1.0.jl")
 
 datasets = ["DBLP","Amazon","LiveJournal","Orkut"]
 
-
 # For a better understanding of the FlowSeed algorithm, see:
 # https://arxiv.org/abs/1811.12280
 #

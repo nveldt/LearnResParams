@@ -1,0 +1,1659 @@
+
+ Experiments for Graph: UIllinois20
+
+Metadata attribute number 1
+
+Group 2 in category 1 has size 3792 and cond = 0.6712386644286795
+Superset: |R| = 11376, condR = 0.3706, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.001 	 F1 = 0.001 	 Size = 2 	 Cond = 0.3333 	 Time = 9.526512016 
+Learning Alpha: 	PR = 1.0 	 RE = 0.001 	 F1 = 0.001 	 Size = 2 	 Alpha = 0.3333333333333333 	 BestP = 1.2064018644081052 	 time = 15.497834766 
+
+Group 3 in category 1 has size 1268 and cond = 0.8669224271434605
+Superset: |R| = 3804, condR = 0.7042, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.01 	 F1 = 0.02 	 Size = 13 	 Cond = 0.2037 	 Time = 5.079960759 
+Learning Alpha: 	PR = 0.697 	 RE = 0.248 	 F1 = 0.366 	 Size = 452 	 Alpha = 0.6765046296296295 	 BestP = 1.041986963998119 	 time = 8.451024966 
+
+Group 4 in category 1 has size 124 and cond = 0.9746749957791659
+Superset: |R| = 372, condR = 0.8257, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.5 	 RE = 0.016 	 F1 = 0.031 	 Size = 4 	 Cond = 0.4545 	 Time = 1.136562514 
+Learning Alpha: 	PR = 0.127 	 RE = 0.137 	 F1 = 0.132 	 Size = 134 	 Alpha = 0.7443181818181819 	 BestP = 1.0481846805497805 	 time = 1.886486298 
+
+Group 5 in category 1 has size 67 and cond = 0.9931876241839341
+Superset: |R| = 201, condR = 0.9131, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.03 	 F1 = 0.058 	 Size = 2 	 Cond = 0.6 	 Time = 0.918738114 
+Learning Alpha: 	PR = 0.146 	 RE = 0.09 	 F1 = 0.111 	 Size = 41 	 Alpha = 0.8250000000000001 	 BestP = 1.0274609098363237 	 time = 1.967320868 
+
+Metadata attribute number 2
+
+Group 1 in category 2 has size 14834 and cond = 0.5017312713251307
+Superset: |R| = 15398, condR = 0.4738, PR = 0.9634, RE = 1.0, F1 = 0.9813
+Min Cond Subset: 	PR = 1.0 	 RE = 0.0 	 F1 = 0.0 	 Size = 2 	 Cond = 0.3333 	 Time = 9.774954686 
+Learning Alpha: 	PR = 0.962 	 RE = 0.948 	 F1 = 0.955 	 Size = 14613 	 Alpha = 0.5208333333333333 	 BestP = 1.0692190599618663 	 time = 28.606812668 
+
+Group 2 in category 2 has size 13999 and cond = 0.4679945449562309
+Superset: |R| = 15398, condR = 0.5261, PR = 0.9091, RE = 1.0, F1 = 0.9524
+Min Cond Subset: 	PR = 1.0 	 RE = 0.0 	 F1 = 0.001 	 Size = 4 	 Cond = 0.3333 	 Time = 15.297445129 
+Learning Alpha: 	PR = 0.908 	 RE = 0.976 	 F1 = 0.94 	 Size = 15044 	 Alpha = 0.35416666666666663 	 BestP = 1.2324067312973506 	 time = 27.907053813 
+
+Metadata attribute number 3
+
+Group 1 in category 3 has size 1371 and cond = 0.9232224793925367
+Superset: |R| = 4113, condR = 0.7036, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.104 	 RE = 0.008 	 F1 = 0.015 	 Size = 106 	 Cond = 0.6388 	 Time = 6.45829629 
+Learning Alpha: 	PR = 0.261 	 RE = 0.643 	 F1 = 0.372 	 Size = 3370 	 Alpha = 0.7065304798962386 	 BestP = 1.0830723594900578 	 time = 11.333562807 
+
+Group 2 in category 3 has size 750 and cond = 0.9099234271523179
+Superset: |R| = 2250, condR = 0.6942, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.003 	 F1 = 0.005 	 Size = 2 	 Cond = 0.3333 	 Time = 3.04903179 
+Learning Alpha: 	PR = 0.016 	 RE = 0.012 	 F1 = 0.014 	 Size = 555 	 Alpha = 0.5416666666666666 	 BestP = 1.096819877047038 	 time = 9.792291706 
+
+Group 3 in category 3 has size 331 and cond = 0.9379207564623053
+Superset: |R| = 993, condR = 0.7728, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.051 	 RE = 0.015 	 F1 = 0.023 	 Size = 98 	 Cond = 0.5661 	 Time = 2.377731536 
+Learning Alpha: 	PR = 0.07 	 RE = 0.073 	 F1 = 0.071 	 Size = 341 	 Alpha = 0.7424006306834849 	 BestP = 1.1284188826468593 	 time = 7.130861238 
+
+Group 4 in category 3 has size 532 and cond = 0.9411657337551715
+Superset: |R| = 1596, condR = 0.8014, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.028 	 RE = 0.004 	 F1 = 0.007 	 Size = 71 	 Cond = 0.6208 	 Time = 2.404605736 
+Learning Alpha: 	PR = 0.188 	 RE = 0.167 	 F1 = 0.177 	 Size = 474 	 Alpha = 0.7867254821501847 	 BestP = 1.0752149964100879 	 time = 5.573287303 
+
+Group 5 in category 3 has size 528 and cond = 0.942081333269965
+Superset: |R| = 1584, condR = 0.8191, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.143 	 RE = 0.006 	 F1 = 0.011 	 Size = 21 	 Cond = 0.7054 	 Time = 4.196771058 
+Learning Alpha: 	PR = 0.135 	 RE = 0.144 	 F1 = 0.139 	 Size = 563 	 Alpha = 0.7974504249291785 	 BestP = 1.0596046885357806 	 time = 7.769760314 
+
+Group 6 in category 3 has size 179 and cond = 0.9773202686337114
+Superset: |R| = 537, condR = 0.8848, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.286 	 RE = 0.011 	 F1 = 0.022 	 Size = 7 	 Cond = 0.7517 	 Time = 1.827000176 
+Learning Alpha: 	PR = 0.064 	 RE = 0.067 	 F1 = 0.066 	 Size = 187 	 Alpha = 0.8293103448275863 	 BestP = 1.054820264211832 	 time = 3.785118957 
+
+Group 7 in category 3 has size 573 and cond = 0.9186499159515173
+Superset: |R| = 1719, condR = 0.8182, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.06 	 RE = 0.016 	 F1 = 0.025 	 Size = 151 	 Cond = 0.7084 	 Time = 3.704025017 
+Learning Alpha: 	PR = 0.097 	 RE = 0.061 	 F1 = 0.075 	 Size = 359 	 Alpha = 0.7995388106937619 	 BestP = 1.0529634009474795 	 time = 7.022636825 
+
+Group 8 in category 3 has size 238 and cond = 0.9540210016853204
+Superset: |R| = 714, condR = 0.8478, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.024 	 RE = 0.008 	 F1 = 0.012 	 Size = 83 	 Cond = 0.6699 	 Time = 2.693248327 
+Learning Alpha: 	PR = 0.077 	 RE = 0.05 	 F1 = 0.061 	 Size = 156 	 Alpha = 0.7936688928707172 	 BestP = 1.0725220269653166 	 time = 6.343139012 
+
+Group 9 in category 3 has size 701 and cond = 0.9414629180311179
+Superset: |R| = 2103, condR = 0.7822, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.02 	 RE = 0.003 	 F1 = 0.005 	 Size = 102 	 Cond = 0.6626 	 Time = 5.707404615 
+Learning Alpha: 	PR = 0.059 	 RE = 0.027 	 F1 = 0.037 	 Size = 324 	 Alpha = 0.7680675097369813 	 BestP = 1.0651108189882934 	 time = 8.797824424 
+
+Group 10 in category 3 has size 40 and cond = 0.9930891499654457
+Superset: |R| = 120, condR = 0.9487, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.059 	 RE = 0.025 	 F1 = 0.035 	 Size = 17 	 Cond = 0.9007 	 Time = 0.687949716 
+Learning Alpha: 	PR = 0.059 	 RE = 0.025 	 F1 = 0.035 	 Size = 17 	 Alpha = 0.9007314524555904 	 BestP = 1.0220427974454864 	 time = 0.568222827 
+
+Group 11 in category 3 has size 218 and cond = 0.9751570132588974
+Superset: |R| = 654, condR = 0.8968, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.024 	 RE = 0.005 	 F1 = 0.008 	 Size = 41 	 Cond = 0.6774 	 Time = 1.414877561 
+Learning Alpha: 	PR = 0.085 	 RE = 0.096 	 F1 = 0.091 	 Size = 246 	 Alpha = 0.8790128410914928 	 BestP = 1.047441589350537 	 time = 3.25797789 
+
+Group 12 in category 3 has size 850 and cond = 0.8366738383724003
+Superset: |R| = 2550, condR = 0.7446, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.002 	 F1 = 0.005 	 Size = 2 	 Cond = 0.5 	 Time = 3.879342709 
+Learning Alpha: 	PR = 0.467 	 RE = 0.378 	 F1 = 0.418 	 Size = 687 	 Alpha = 0.65625 	 BestP = 1.0635457765576215 	 time = 8.152268318 
+
+Group 13 in category 3 has size 920 and cond = 0.9366705901359367
+Superset: |R| = 2760, condR = 0.7489, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.019 	 RE = 0.001 	 F1 = 0.002 	 Size = 52 	 Cond = 0.6367 	 Time = 6.449550974 
+Learning Alpha: 	PR = 0.094 	 RE = 0.049 	 F1 = 0.064 	 Size = 477 	 Alpha = 0.7275431290898275 	 BestP = 1.0868883914398002 	 time = 10.390362808 
+
+Group 14 in category 3 has size 66 and cond = 0.9801268498942918
+Superset: |R| = 198, condR = 0.8961, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.037 	 RE = 0.015 	 F1 = 0.022 	 Size = 27 	 Cond = 0.661 	 Time = 0.567258087 
+Learning Alpha: 	PR = 0.133 	 RE = 0.197 	 F1 = 0.159 	 Size = 98 	 Alpha = 0.8940595975232198 	 BestP = 1.070429016771347 	 time = 1.026143677 
+
+Group 15 in category 3 has size 175 and cond = 0.8787931183539379
+Superset: |R| = 525, condR = 0.8121, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.012 	 RE = 0.006 	 F1 = 0.008 	 Size = 84 	 Cond = 0.6868 	 Time = 1.523835178 
+Learning Alpha: 	PR = 0.012 	 RE = 0.006 	 F1 = 0.008 	 Size = 84 	 Alpha = 0.6867968132335949 	 BestP = 1.0497315151278095 	 time = 2.91116634 
+
+Group 16 in category 3 has size 877 and cond = 0.9126033995323025
+Superset: |R| = 2631, condR = 0.7228, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.068 	 RE = 0.009 	 F1 = 0.016 	 Size = 117 	 Cond = 0.5532 	 Time = 5.185190546 
+Learning Alpha: 	PR = 0.117 	 RE = 0.099 	 F1 = 0.107 	 Size = 745 	 Alpha = 0.6788781242834213 	 BestP = 1.1011086012359304 	 time = 13.437753964 
+
+Group 17 in category 3 has size 283 and cond = 0.9573951732506404
+Superset: |R| = 849, condR = 0.7832, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.364 	 RE = 0.014 	 F1 = 0.027 	 Size = 11 	 Cond = 0.5455 	 Time = 2.134508543 
+Learning Alpha: 	PR = 0.824 	 RE = 0.198 	 F1 = 0.319 	 Size = 68 	 Alpha = 0.6875 	 BestP = 1.0696934934295637 	 time = 4.733072927 
+
+Group 18 in category 3 has size 1151 and cond = 0.8895625812039845
+Superset: |R| = 3453, condR = 0.6834, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.002 	 F1 = 0.003 	 Size = 2 	 Cond = 0.5 	 Time = 5.879049262 
+Learning Alpha: 	PR = 0.182 	 RE = 0.144 	 F1 = 0.161 	 Size = 913 	 Alpha = 0.65625 	 BestP = 1.0926513134530718 	 time = 12.788093593 
+
+Group 19 in category 3 has size 69 and cond = 0.9276904882581517
+Superset: |R| = 207, condR = 0.9059, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.087 	 F1 = 0.16 	 Size = 6 	 Cond = 0.7551 	 Time = 1.017697886 
+Learning Alpha: 	PR = 0.26 	 RE = 0.29 	 F1 = 0.274 	 Size = 77 	 Alpha = 0.8622448979591837 	 BestP = 1.033554092246457 	 time = 1.91526882 
+
+Group 21 in category 3 has size 57 and cond = 0.8546790162887257
+Superset: |R| = 171, condR = 0.8511, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.536 	 RE = 0.526 	 F1 = 0.531 	 Size = 56 	 Cond = 0.7487 	 Time = 0.742794954 
+Learning Alpha: 	PR = 0.514 	 RE = 0.667 	 F1 = 0.58 	 Size = 74 	 Alpha = 0.8115128115128114 	 BestP = 1.0393635178648464 	 time = 1.618682884 
+
+Group 22 in category 3 has size 1277 and cond = 0.9251919099256593
+Superset: |R| = 3831, condR = 0.6841, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.002 	 F1 = 0.003 	 Size = 2 	 Cond = 0.5 	 Time = 7.004738779 
+Learning Alpha: 	PR = 0.12 	 RE = 0.081 	 F1 = 0.096 	 Size = 858 	 Alpha = 0.6875 	 BestP = 1.1128222513116663 	 time = 16.303019482 
+
+Group 23 in category 3 has size 487 and cond = 0.9176490924805532
+Superset: |R| = 1461, condR = 0.7966, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.041 	 RE = 0.01 	 F1 = 0.016 	 Size = 121 	 Cond = 0.6101 	 Time = 4.561928484 
+Learning Alpha: 	PR = 0.234 	 RE = 0.216 	 F1 = 0.225 	 Size = 448 	 Alpha = 0.7806671880640115 	 BestP = 1.090870174350377 	 time = 8.463392885 
+
+Group 24 in category 3 has size 617 and cond = 0.9578537616839272
+Superset: |R| = 1851, condR = 0.7995, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.207 	 RE = 0.01 	 F1 = 0.019 	 Size = 29 	 Cond = 0.6626 	 Time = 3.408138509 
+Learning Alpha: 	PR = 0.222 	 RE = 0.303 	 F1 = 0.256 	 Size = 844 	 Alpha = 0.7680555555555556 	 BestP = 1.0616274790539628 	 time = 5.216065111 
+
+Group 25 in category 3 has size 215 and cond = 0.9312059256252854
+Superset: |R| = 645, condR = 0.8742, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.032 	 RE = 0.005 	 F1 = 0.008 	 Size = 31 	 Cond = 0.7035 	 Time = 1.657810128 
+Learning Alpha: 	PR = 0.226 	 RE = 0.2 	 F1 = 0.212 	 Size = 190 	 Alpha = 0.8332002737226277 	 BestP = 1.0375431731342535 	 time = 4.394943482 
+
+Group 26 in category 3 has size 449 and cond = 0.9129974597798476
+Superset: |R| = 1347, condR = 0.8103, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.403 	 RE = 0.069 	 F1 = 0.118 	 Size = 77 	 Cond = 0.7013 	 Time = 3.351399903 
+Learning Alpha: 	PR = 0.218 	 RE = 0.165 	 F1 = 0.188 	 Size = 339 	 Alpha = 0.7573315307820301 	 BestP = 1.0465152633876615 	 time = 5.039594234 
+
+Group 27 in category 3 has size 233 and cond = 0.9515731996598488
+Superset: |R| = 699, condR = 0.8608, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.036 	 RE = 0.004 	 F1 = 0.008 	 Size = 28 	 Cond = 0.6744 	 Time = 1.978951442 
+Learning Alpha: 	PR = 0.183 	 RE = 0.189 	 F1 = 0.186 	 Size = 241 	 Alpha = 0.816860465116279 	 BestP = 1.0555985815599678 	 time = 4.054735773 
+
+Group 28 in category 3 has size 150 and cond = 0.9342538975501113
+Superset: |R| = 450, condR = 0.8967, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.737 	 RE = 0.28 	 F1 = 0.406 	 Size = 57 	 Cond = 0.8282 	 Time = 1.61054166 
+Learning Alpha: 	PR = 0.737 	 RE = 0.28 	 F1 = 0.406 	 Size = 57 	 Alpha = 0.82824312065316 	 BestP = 1.0267250957292373 	 time = 1.463215873 
+
+Group 29 in category 3 has size 104 and cond = 0.9357421875
+Superset: |R| = 312, condR = 0.8803, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.01 	 F1 = 0.014 	 Size = 38 	 Cond = 0.6391 	 Time = 1.043436443 
+Learning Alpha: 	PR = 0.15 	 RE = 0.212 	 F1 = 0.175 	 Size = 147 	 Alpha = 0.8646616541353384 	 BestP = 1.0623020339484066 	 time = 1.827880149 
+
+Group 30 in category 3 has size 191 and cond = 0.9563022206335732
+Superset: |R| = 573, condR = 0.8533, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.059 	 RE = 0.005 	 F1 = 0.01 	 Size = 17 	 Cond = 0.7867 	 Time = 2.446160529 
+Learning Alpha: 	PR = 0.042 	 RE = 0.016 	 F1 = 0.023 	 Size = 72 	 Alpha = 0.8000313676286073 	 BestP = 1.048000126821397 	 time = 3.402903773 
+
+Group 31 in category 3 has size 1262 and cond = 0.9067764759710444
+Superset: |R| = 3786, condR = 0.7173, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.187 	 RE = 0.011 	 F1 = 0.021 	 Size = 75 	 Cond = 0.6222 	 Time = 7.79193407 
+Learning Alpha: 	PR = 0.286 	 RE = 0.638 	 F1 = 0.395 	 Size = 2818 	 Alpha = 0.7166424337322448 	 BestP = 1.077839623430965 	 time = 13.043262811 
+
+Group 33 in category 3 has size 169 and cond = 0.9753611338239302
+Superset: |R| = 507, condR = 0.7892, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.009 	 RE = 0.006 	 F1 = 0.007 	 Size = 117 	 Cond = 0.5463 	 Time = 1.867974561 
+Learning Alpha: 	PR = 0.007 	 RE = 0.006 	 F1 = 0.006 	 Size = 152 	 Alpha = 0.787335799005229 	 BestP = 1.1725239845155428 	 time = 5.460516221 
+
+Group 34 in category 3 has size 513 and cond = 0.9565395444074738
+Superset: |R| = 1539, condR = 0.8427, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.037 	 RE = 0.002 	 F1 = 0.004 	 Size = 27 	 Cond = 0.6872 	 Time = 2.873393471 
+Learning Alpha: 	PR = 0.132 	 RE = 0.109 	 F1 = 0.12 	 Size = 424 	 Alpha = 0.8436050364479788 	 BestP = 1.059752436123624 	 time = 6.408884629 
+
+Group 35 in category 3 has size 412 and cond = 0.8189353921170256
+Superset: |R| = 1236, condR = 0.7311, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.04 	 RE = 0.041 	 F1 = 0.04 	 Size = 429 	 Cond = 0.6507 	 Time = 3.180033197 
+Learning Alpha: 	PR = 0.04 	 RE = 0.041 	 F1 = 0.04 	 Size = 429 	 Alpha = 0.6506900646827547 	 BestP = 1.049714870685587 	 time = 3.848910876 
+
+Group 36 in category 3 has size 615 and cond = 0.9679695872848968
+Superset: |R| = 1845, condR = 0.7772, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.139 	 RE = 0.016 	 F1 = 0.029 	 Size = 72 	 Cond = 0.6358 	 Time = 4.256890031 
+Learning Alpha: 	PR = 0.077 	 RE = 0.044 	 F1 = 0.056 	 Size = 352 	 Alpha = 0.7041049941433286 	 BestP = 1.0772413622435097 	 time = 7.926948122 
+
+Group 37 in category 3 has size 431 and cond = 0.9219166575362477
+Superset: |R| = 1293, condR = 0.8364, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.019 	 F1 = 0.036 	 Size = 8 	 Cond = 0.6538 	 Time = 2.572510409 
+Learning Alpha: 	PR = 0.106 	 RE = 0.104 	 F1 = 0.105 	 Size = 423 	 Alpha = 0.8052884615384615 	 BestP = 1.0311001637300297 	 time = 4.689244292 
+
+Group 38 in category 3 has size 192 and cond = 0.9563562076330208
+Superset: |R| = 576, condR = 0.8233, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.032 	 RE = 0.026 	 F1 = 0.029 	 Size = 157 	 Cond = 0.7357 	 Time = 2.194629086 
+Learning Alpha: 	PR = 0.032 	 RE = 0.026 	 F1 = 0.029 	 Size = 157 	 Alpha = 0.735663797947535 	 BestP = 1.0729543609199388 	 time = 3.592393528 
+
+Group 39 in category 3 has size 750 and cond = 0.9098691929946547
+Superset: |R| = 2250, condR = 0.7945, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.003 	 F1 = 0.005 	 Size = 2 	 Cond = 0.6667 	 Time = 4.215746915 
+Learning Alpha: 	PR = 0.283 	 RE = 0.3 	 F1 = 0.291 	 Size = 796 	 Alpha = 0.7708333333333333 	 BestP = 1.0418095855597054 	 time = 6.060498029 
+
+Group 40 in category 3 has size 50 and cond = 0.9225671433554238
+Superset: |R| = 150, condR = 0.8764, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.14 	 F1 = 0.246 	 Size = 7 	 Cond = 0.6949 	 Time = 0.718767465 
+Learning Alpha: 	PR = 1.0 	 RE = 0.2 	 F1 = 0.333 	 Size = 10 	 Alpha = 0.809322033898305 	 BestP = 1.017857692031697 	 time = 1.330343733 
+
+Group 41 in category 3 has size 162 and cond = 0.9780531345164339
+Superset: |R| = 486, condR = 0.8745, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.032 	 RE = 0.012 	 F1 = 0.018 	 Size = 63 	 Cond = 0.6602 	 Time = 1.73699062 
+Learning Alpha: 	PR = 0.091 	 RE = 0.117 	 F1 = 0.103 	 Size = 208 	 Alpha = 0.8513292236563283 	 BestP = 1.0655011915460761 	 time = 3.522709351 
+
+Group 42 in category 3 has size 39 and cond = 0.9566109645265318
+Superset: |R| = 117, condR = 0.9146, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.413 	 RE = 0.487 	 F1 = 0.447 	 Size = 46 	 Cond = 0.8741 	 Time = 0.747918576 
+Learning Alpha: 	PR = 0.413 	 RE = 0.487 	 F1 = 0.447 	 Size = 46 	 Alpha = 0.8740930431071277 	 BestP = 1.021383372536772 	 time = 0.937475841 
+
+Group 43 in category 3 has size 496 and cond = 0.9207068418667875
+Superset: |R| = 1488, condR = 0.7973, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.09 	 RE = 0.036 	 F1 = 0.052 	 Size = 200 	 Cond = 0.6401 	 Time = 3.693672896 
+Learning Alpha: 	PR = 0.226 	 RE = 0.274 	 F1 = 0.248 	 Size = 601 	 Alpha = 0.7975757159535746 	 BestP = 1.084410328814119 	 time = 6.507896611 
+
+Group 44 in category 3 has size 293 and cond = 0.9017811468167233
+Superset: |R| = 879, condR = 0.8294, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.044 	 F1 = 0.085 	 Size = 13 	 Cond = 0.2037 	 Time = 1.869638853 
+Learning Alpha: 	PR = 0.142 	 RE = 0.102 	 F1 = 0.119 	 Size = 212 	 Alpha = 0.7760416666666667 	 BestP = 1.0456197603523063 	 time = 4.747093868 
+
+Group 45 in category 3 has size 156 and cond = 0.9750986941998178
+Superset: |R| = 468, condR = 0.9143, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.006 	 F1 = 0.012 	 Size = 10 	 Cond = 0.4759 	 Time = 0.889160946 
+Learning Alpha: 	PR = 0.2 	 RE = 0.167 	 F1 = 0.182 	 Size = 130 	 Alpha = 0.8689655172413793 	 BestP = 1.0338261099737696 	 time = 2.075588242 
+
+Group 46 in category 3 has size 369 and cond = 0.9422642165671555
+Superset: |R| = 1107, condR = 0.7873, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.048 	 RE = 0.016 	 F1 = 0.024 	 Size = 124 	 Cond = 0.6056 	 Time = 3.309799221 
+Learning Alpha: 	PR = 0.161 	 RE = 0.209 	 F1 = 0.182 	 Size = 478 	 Alpha = 0.778143670320365 	 BestP = 1.0924905179821804 	 time = 8.073245527 
+
+Group 47 in category 3 has size 279 and cond = 0.9671226749170612
+Superset: |R| = 837, condR = 0.8789, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.167 	 RE = 0.014 	 F1 = 0.026 	 Size = 24 	 Cond = 0.6985 	 Time = 2.021106028 
+Learning Alpha: 	PR = 0.065 	 RE = 0.068 	 F1 = 0.067 	 Size = 291 	 Alpha = 0.8680865298840321 	 BestP = 1.053537298066672 	 time = 3.95384475 
+
+Group 48 in category 3 has size 38 and cond = 0.9369411764705883
+Superset: |R| = 114, condR = 0.9419, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.237 	 F1 = 0.383 	 Size = 9 	 Cond = 0.8338 	 Time = 0.491412529 
+Learning Alpha: 	PR = 0.419 	 RE = 0.474 	 F1 = 0.444 	 Size = 43 	 Alpha = 0.8961538461538462 	 BestP = 1.0102706068184417 	 time = 0.846971018 
+
+Group 49 in category 3 has size 209 and cond = 0.8757083977331273
+Superset: |R| = 627, condR = 0.8377, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.013 	 RE = 0.005 	 F1 = 0.007 	 Size = 78 	 Cond = 0.6617 	 Time = 1.826137265 
+Learning Alpha: 	PR = 0.479 	 RE = 0.378 	 F1 = 0.422 	 Size = 165 	 Alpha = 0.8096961615391942 	 BestP = 1.0446694001864354 	 time = 4.220543812 
+
+Group 50 in category 3 has size 171 and cond = 0.9893707155511053
+Superset: |R| = 513, condR = 0.8957, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.006 	 F1 = 0.011 	 Size = 18 	 Cond = 0.7503 	 Time = 1.502397081 
+Learning Alpha: 	PR = 0.066 	 RE = 0.07 	 F1 = 0.068 	 Size = 181 	 Alpha = 0.8595700416088766 	 BestP = 1.0499643866248143 	 time = 2.873890529 
+
+Group 51 in category 3 has size 172 and cond = 0.9627893765090186
+Superset: |R| = 516, condR = 0.8949, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.006 	 F1 = 0.01 	 Size = 34 	 Cond = 0.735 	 Time = 1.637403796 
+Learning Alpha: 	PR = 0.072 	 RE = 0.076 	 F1 = 0.074 	 Size = 181 	 Alpha = 0.8675229357798165 	 BestP = 1.0419933098866982 	 time = 2.917695761 
+
+Group 52 in category 3 has size 320 and cond = 0.8818246038954486
+Superset: |R| = 960, condR = 0.8445, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.093 	 RE = 0.012 	 F1 = 0.022 	 Size = 43 	 Cond = 0.7533 	 Time = 2.783393064 
+Learning Alpha: 	PR = 0.492 	 RE = 0.284 	 F1 = 0.36 	 Size = 185 	 Alpha = 0.7841625788367204 	 BestP = 1.0276180630985687 	 time = 3.641259398 
+
+Group 53 in category 3 has size 376 and cond = 0.9701169337375487
+Superset: |R| = 1128, condR = 0.8606, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.056 	 F1 = 0.106 	 Size = 21 	 Cond = 0.6234 	 Time = 1.90683894 
+Learning Alpha: 	PR = 0.27 	 RE = 0.128 	 F1 = 0.173 	 Size = 178 	 Alpha = 0.8352417302798982 	 BestP = 1.0384181937534025 	 time = 4.137080653 
+
+Group 54 in category 3 has size 123 and cond = 0.9882523043556841
+Superset: |R| = 369, condR = 0.8698, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.015 	 RE = 0.008 	 F1 = 0.011 	 Size = 65 	 Cond = 0.7544 	 Time = 1.576686312 
+Learning Alpha: 	PR = 0.017 	 RE = 0.016 	 F1 = 0.017 	 Size = 117 	 Alpha = 0.7851245172459715 	 BestP = 1.0759914387212985 	 time = 2.750511221 
+
+Group 56 in category 3 has size 289 and cond = 0.966618082655508
+Superset: |R| = 867, condR = 0.8388, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.007 	 F1 = 0.011 	 Size = 78 	 Cond = 0.5578 	 Time = 1.873962591 
+Learning Alpha: 	PR = 0.091 	 RE = 0.1 	 F1 = 0.095 	 Size = 319 	 Alpha = 0.820375512362819 	 BestP = 1.0697764890922232 	 time = 4.45366678 
+
+Group 57 in category 3 has size 89 and cond = 0.9320135972805439
+Superset: |R| = 267, condR = 0.9109, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.011 	 F1 = 0.02 	 Size = 12 	 Cond = 0.8406 	 Time = 1.233481677 
+Learning Alpha: 	PR = 0.083 	 RE = 0.011 	 F1 = 0.02 	 Size = 12 	 Alpha = 0.8405977584059776 	 BestP = 1.0179032096814702 	 time = 1.158516286 
+
+Group 58 in category 3 has size 91 and cond = 0.9892086330935251
+Superset: |R| = 273, condR = 0.9035, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.067 	 RE = 0.011 	 F1 = 0.019 	 Size = 15 	 Cond = 0.7967 	 Time = 0.933320298 
+Learning Alpha: 	PR = 0.125 	 RE = 0.088 	 F1 = 0.103 	 Size = 64 	 Alpha = 0.8475222363405337 	 BestP = 1.039880276914193 	 time = 2.486241291 
+
+Group 59 in category 3 has size 43 and cond = 0.9926801801801802
+Superset: |R| = 129, condR = 0.962, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.023 	 F1 = 0.034 	 Size = 16 	 Cond = 0.7605 	 Time = 0.408682627 
+Learning Alpha: 	PR = 0.176 	 RE = 0.279 	 F1 = 0.216 	 Size = 68 	 Alpha = 0.9700680272108844 	 BestP = 1.0197857183229146 	 time = 1.1771103 
+
+Group 60 in category 3 has size 149 and cond = 0.9634464751958225
+Superset: |R| = 447, condR = 0.9011, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.013 	 F1 = 0.026 	 Size = 2 	 Cond = 0.6 	 Time = 1.303635386 
+Learning Alpha: 	PR = 0.096 	 RE = 0.087 	 F1 = 0.092 	 Size = 135 	 Alpha = 0.8500000000000001 	 BestP = 1.0299096077473808 	 time = 2.093991477 
+
+Group 61 in category 3 has size 59 and cond = 0.9826524902070509
+Superset: |R| = 177, condR = 0.926, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.017 	 F1 = 0.026 	 Size = 18 	 Cond = 0.8661 	 Time = 0.714562825 
+Learning Alpha: 	PR = 0.115 	 RE = 0.102 	 F1 = 0.108 	 Size = 52 	 Alpha = 0.8995381062355658 	 BestP = 1.0220363801598233 	 time = 0.971008037 
+
+Group 63 in category 3 has size 318 and cond = 0.9460036607687614
+Superset: |R| = 954, condR = 0.7952, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.067 	 RE = 0.019 	 F1 = 0.029 	 Size = 90 	 Cond = 0.6509 	 Time = 3.388708323 
+Learning Alpha: 	PR = 0.231 	 RE = 0.236 	 F1 = 0.233 	 Size = 325 	 Alpha = 0.7381620573527912 	 BestP = 1.0787921188908096 	 time = 7.494611304 
+
+Group 64 in category 3 has size 81 and cond = 0.8998908467176049
+Superset: |R| = 243, condR = 0.8335, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.086 	 RE = 0.062 	 F1 = 0.072 	 Size = 58 	 Cond = 0.6553 	 Time = 1.160619195 
+Learning Alpha: 	PR = 0.121 	 RE = 0.099 	 F1 = 0.109 	 Size = 66 	 Alpha = 0.7199628597957289 	 BestP = 1.0620914723620676 	 time = 2.265368726 
+
+Group 65 in category 3 has size 79 and cond = 0.8973694440844888
+Superset: |R| = 237, condR = 0.8151, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.05 	 RE = 0.051 	 F1 = 0.05 	 Size = 80 	 Cond = 0.6996 	 Time = 1.368790249 
+Learning Alpha: 	PR = 0.05 	 RE = 0.051 	 F1 = 0.05 	 Size = 80 	 Alpha = 0.6996121246947278 	 BestP = 1.0578728082648055 	 time = 1.943653135 
+
+Group 66 in category 3 has size 81 and cond = 0.9846659364731654
+Superset: |R| = 243, condR = 0.8226, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.01 	 RE = 0.012 	 F1 = 0.011 	 Size = 103 	 Cond = 0.7159 	 Time = 1.093810997 
+Learning Alpha: 	PR = 0.01 	 RE = 0.012 	 F1 = 0.011 	 Size = 103 	 Alpha = 0.7159160633206528 	 BestP = 1.0828637801655057 	 time = 1.414619515 
+
+Group 67 in category 3 has size 86 and cond = 0.827683615819209
+Superset: |R| = 258, condR = 0.8178, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.662 	 RE = 0.593 	 F1 = 0.626 	 Size = 77 	 Cond = 0.7123 	 Time = 1.151037333 
+Learning Alpha: 	PR = 0.607 	 RE = 0.628 	 F1 = 0.617 	 Size = 89 	 Alpha = 0.7482497082847142 	 BestP = 1.0326607224376674 	 time = 1.85725132 
+
+Group 68 in category 3 has size 84 and cond = 0.9201968711548603
+Superset: |R| = 252, condR = 0.8271, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.155 	 RE = 0.155 	 F1 = 0.155 	 Size = 84 	 Cond = 0.6178 	 Time = 1.065408546 
+Learning Alpha: 	PR = 0.155 	 RE = 0.155 	 F1 = 0.155 	 Size = 84 	 Alpha = 0.6416787646825921 	 BestP = 1.090885176366797 	 time = 1.890942202 
+
+Group 69 in category 3 has size 42 and cond = 0.9804270462633452
+Superset: |R| = 126, condR = 0.9338, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.143 	 RE = 0.048 	 F1 = 0.071 	 Size = 14 	 Cond = 0.8328 	 Time = 0.403357059 
+Learning Alpha: 	PR = 0.114 	 RE = 0.095 	 F1 = 0.104 	 Size = 35 	 Alpha = 0.8955108359133126 	 BestP = 1.0239939338525608 	 time = 0.79124195 
+
+Group 70 in category 3 has size 385 and cond = 0.9454866548932058
+Superset: |R| = 1155, condR = 0.8605, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.016 	 F1 = 0.031 	 Size = 6 	 Cond = 0.7209 	 Time = 3.132290664 
+Learning Alpha: 	PR = 0.189 	 RE = 0.182 	 F1 = 0.185 	 Size = 370 	 Alpha = 0.8430232558139534 	 BestP = 1.0430345243822923 	 time = 5.303333097 
+
+Group 71 in category 3 has size 75 and cond = 0.9585542168674699
+Superset: |R| = 225, condR = 0.921, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.033 	 RE = 0.027 	 F1 = 0.03 	 Size = 60 	 Cond = 0.8684 	 Time = 1.475524371 
+Learning Alpha: 	PR = 0.033 	 RE = 0.027 	 F1 = 0.03 	 Size = 60 	 Alpha = 0.8684128468974119 	 BestP = 1.0186233523988195 	 time = 1.648863038 
+
+Group 72 in category 3 has size 103 and cond = 0.9748890298034242
+Superset: |R| = 309, condR = 0.9257, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.04 	 RE = 0.01 	 F1 = 0.016 	 Size = 25 	 Cond = 0.8491 	 Time = 1.13474421 
+Learning Alpha: 	PR = 0.045 	 RE = 0.029 	 F1 = 0.036 	 Size = 66 	 Alpha = 0.9057097957045573 	 BestP = 1.019859446035131 	 time = 1.846739981 
+
+Group 73 in category 3 has size 532 and cond = 0.8920622343873803
+Superset: |R| = 1596, condR = 0.7547, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.049 	 RE = 0.009 	 F1 = 0.016 	 Size = 102 	 Cond = 0.6166 	 Time = 3.418860481 
+Learning Alpha: 	PR = 0.232 	 RE = 0.239 	 F1 = 0.235 	 Size = 547 	 Alpha = 0.6885047560772098 	 BestP = 1.0904962383895165 	 time = 6.937636002 
+
+Group 74 in category 3 has size 201 and cond = 0.7740254146026276
+Superset: |R| = 603, condR = 0.7903, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.717 	 RE = 0.682 	 F1 = 0.699 	 Size = 191 	 Cond = 0.7216 	 Time = 2.345075368 
+Learning Alpha: 	PR = 0.717 	 RE = 0.682 	 F1 = 0.699 	 Size = 191 	 Alpha = 0.7215953139805323 	 BestP = 1.016733323900425 	 time = 2.332207689 
+
+Group 75 in category 3 has size 38 and cond = 0.9630407391852163
+Superset: |R| = 114, condR = 0.9068, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.308 	 RE = 0.211 	 F1 = 0.25 	 Size = 26 	 Cond = 0.8256 	 Time = 0.560502155 
+Learning Alpha: 	PR = 0.325 	 RE = 0.342 	 F1 = 0.333 	 Size = 40 	 Alpha = 0.869220607661823 	 BestP = 1.0334081784146747 	 time = 0.8024277 
+
+Group 76 in category 3 has size 100 and cond = 0.9316546762589928
+Superset: |R| = 300, condR = 0.9331, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.222 	 RE = 0.02 	 F1 = 0.037 	 Size = 9 	 Cond = 0.8253 	 Time = 1.292826265 
+Learning Alpha: 	PR = 0.35 	 RE = 0.35 	 F1 = 0.35 	 Size = 100 	 Alpha = 0.8908132530120483 	 BestP = 1.0143374638107936 	 time = 2.047576127 
+
+Group 78 in category 3 has size 81 and cond = 0.88
+Superset: |R| = 243, condR = 0.8834, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.909 	 RE = 0.494 	 F1 = 0.64 	 Size = 44 	 Cond = 0.8017 	 Time = 0.916487382 
+Learning Alpha: 	PR = 0.595 	 RE = 0.543 	 F1 = 0.568 	 Size = 74 	 Alpha = 0.8512511584800742 	 BestP = 1.017553004787698 	 time = 1.421508289 
+
+Group 79 in category 3 has size 123 and cond = 0.9694855115316381
+Superset: |R| = 369, condR = 0.7908, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.011 	 RE = 0.008 	 F1 = 0.009 	 Size = 91 	 Cond = 0.6769 	 Time = 1.22942702 
+Learning Alpha: 	PR = 0.011 	 RE = 0.008 	 F1 = 0.009 	 Size = 91 	 Alpha = 0.6769058067149709 	 BestP = 1.068767542162474 	 time = 1.864913348 
+
+Group 80 in category 3 has size 143 and cond = 0.9893293812523156
+Superset: |R| = 429, condR = 0.8592, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.011 	 RE = 0.007 	 F1 = 0.008 	 Size = 95 	 Cond = 0.6804 	 Time = 1.723002537 
+Learning Alpha: 	PR = 0.02 	 RE = 0.021 	 F1 = 0.02 	 Size = 150 	 Alpha = 0.780295210569777 	 BestP = 1.1064845771420873 	 time = 3.522763416 
+
+Group 81 in category 3 has size 75 and cond = 0.9811419591409115
+Superset: |R| = 225, condR = 0.9003, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.036 	 RE = 0.013 	 F1 = 0.019 	 Size = 28 	 Cond = 0.7893 	 Time = 0.910170284 
+Learning Alpha: 	PR = 0.027 	 RE = 0.013 	 F1 = 0.018 	 Size = 37 	 Alpha = 0.8419972640218878 	 BestP = 1.0393984121680042 	 time = 1.774669838 
+
+Group 82 in category 3 has size 53 and cond = 0.9955888839876489
+Superset: |R| = 159, condR = 0.923, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.045 	 RE = 0.019 	 F1 = 0.027 	 Size = 22 	 Cond = 0.852 	 Time = 0.685210367 
+Learning Alpha: 	PR = 0.04 	 RE = 0.019 	 F1 = 0.026 	 Size = 25 	 Alpha = 0.9074952561669829 	 BestP = 1.0212055653891865 	 time = 1.351624508 
+
+Group 84 in category 3 has size 60 and cond = 0.9896722047597665
+Superset: |R| = 180, condR = 0.9387, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.333 	 RE = 0.033 	 F1 = 0.061 	 Size = 6 	 Cond = 0.7426 	 Time = 0.651732206 
+Learning Alpha: 	PR = 0.124 	 RE = 0.2 	 F1 = 0.153 	 Size = 97 	 Alpha = 0.9195544554455445 	 BestP = 1.0219579911398478 	 time = 1.410400162 
+
+Group 85 in category 3 has size 170 and cond = 0.903025336338182
+Superset: |R| = 510, condR = 0.8703, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.143 	 RE = 0.029 	 F1 = 0.049 	 Size = 35 	 Cond = 0.8059 	 Time = 1.556392966 
+Learning Alpha: 	PR = 0.54 	 RE = 0.518 	 F1 = 0.529 	 Size = 163 	 Alpha = 0.8301617507136061 	 BestP = 1.021659958754686 	 time = 1.972614515 
+
+Group 86 in category 3 has size 67 and cond = 0.9949558638083228
+Superset: |R| = 201, condR = 0.8601, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.033 	 RE = 0.06 	 F1 = 0.042 	 Size = 122 	 Cond = 0.8285 	 Time = 1.222470027 
+Learning Alpha: 	PR = 0.033 	 RE = 0.06 	 F1 = 0.042 	 Size = 122 	 Alpha = 0.8284931298291022 	 BestP = 1.0367578217676463 	 time = 1.724220804 
+
+Group 87 in category 3 has size 90 and cond = 0.985209003215434
+Superset: |R| = 270, condR = 0.9166, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.022 	 F1 = 0.043 	 Size = 2 	 Cond = 0.8333 	 Time = 1.065601161 
+Learning Alpha: 	PR = 1.0 	 RE = 0.022 	 F1 = 0.043 	 Size = 2 	 Alpha = 0.875 	 BestP = 1.0232976736287995 	 time = 1.380026775 
+
+Group 88 in category 3 has size 119 and cond = 0.9497580945292148
+Superset: |R| = 357, condR = 0.8809, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.02 	 RE = 0.008 	 F1 = 0.012 	 Size = 50 	 Cond = 0.7275 	 Time = 1.314137491 
+Learning Alpha: 	PR = 0.025 	 RE = 0.017 	 F1 = 0.02 	 Size = 80 	 Alpha = 0.8637697359228727 	 BestP = 1.0530701807543346 	 time = 3.082486651 
+
+Group 89 in category 3 has size 42 and cond = 0.9760975609756097
+Superset: |R| = 126, condR = 0.9427, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.04 	 RE = 0.024 	 F1 = 0.03 	 Size = 25 	 Cond = 0.8841 	 Time = 0.714740443 
+Learning Alpha: 	PR = 0.048 	 RE = 0.048 	 F1 = 0.048 	 Size = 42 	 Alpha = 0.9420348601540333 	 BestP = 1.023992595487839 	 time = 1.210114109 
+
+Group 91 in category 3 has size 29 and cond = 0.998371335504886
+Superset: |R| = 87, condR = 0.9372, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.034 	 F1 = 0.044 	 Size = 16 	 Cond = 0.8342 	 Time = 0.422353531 
+Learning Alpha: 	PR = 0.024 	 RE = 0.034 	 F1 = 0.028 	 Size = 42 	 Alpha = 0.9171075837742504 	 BestP = 1.0372101018243736 	 time = 0.667665604 
+
+Group 93 in category 3 has size 66 and cond = 0.9770339604202296
+Superset: |R| = 198, condR = 0.8914, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.117 	 RE = 0.106 	 F1 = 0.111 	 Size = 60 	 Cond = 0.8439 	 Time = 1.324351496 
+Learning Alpha: 	PR = 0.117 	 RE = 0.106 	 F1 = 0.111 	 Size = 60 	 Alpha = 0.8439173680183627 	 BestP = 1.0410892979369926 	 time = 1.396653721 
+
+Group 94 in category 3 has size 103 and cond = 0.8972250770811921
+Superset: |R| = 309, condR = 0.8536, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.017 	 RE = 0.01 	 F1 = 0.012 	 Size = 58 	 Cond = 0.7953 	 Time = 1.300599434 
+Learning Alpha: 	PR = 0.017 	 RE = 0.01 	 F1 = 0.012 	 Size = 58 	 Alpha = 0.795272823126263 	 BestP = 1.0285736068326132 	 time = 1.570867978 
+
+Group 95 in category 3 has size 58 and cond = 0.994341147938561
+Superset: |R| = 174, condR = 0.9018, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.017 	 F1 = 0.021 	 Size = 38 	 Cond = 0.8029 	 Time = 1.085928682 
+Learning Alpha: 	PR = 0.041 	 RE = 0.034 	 F1 = 0.037 	 Size = 49 	 Alpha = 0.8521598053133239 	 BestP = 1.0458127566667899 	 time = 1.51115092 
+
+Group 97 in category 3 has size 275 and cond = 0.9371668608140068
+Superset: |R| = 825, condR = 0.7777, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.168 	 RE = 0.065 	 F1 = 0.094 	 Size = 107 	 Cond = 0.651 	 Time = 2.27749827 
+Learning Alpha: 	PR = 0.168 	 RE = 0.065 	 F1 = 0.094 	 Size = 107 	 Alpha = 0.6727999625923502 	 BestP = 1.0942371048572566 	 time = 5.815854661 
+
+Group 98 in category 3 has size 62 and cond = 0.946448087431694
+Superset: |R| = 186, condR = 0.8164, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.017 	 RE = 0.016 	 F1 = 0.017 	 Size = 59 	 Cond = 0.6832 	 Time = 0.729406228 
+Learning Alpha: 	PR = 0.017 	 RE = 0.016 	 F1 = 0.017 	 Size = 59 	 Alpha = 0.6832163369495852 	 BestP = 1.070253904550009 	 time = 1.08413227 
+
+Group 99 in category 3 has size 116 and cond = 0.924357034795764
+Superset: |R| = 348, condR = 0.8199, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.019 	 RE = 0.017 	 F1 = 0.018 	 Size = 105 	 Cond = 0.6793 	 Time = 1.164120802 
+Learning Alpha: 	PR = 0.019 	 RE = 0.017 	 F1 = 0.018 	 Size = 105 	 Alpha = 0.6792715693103791 	 BestP = 1.072311987082491 	 time = 1.936937641 
+
+Group 100 in category 3 has size 100 and cond = 0.8241095254669916
+Superset: |R| = 300, condR = 0.8298, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.779 	 RE = 0.6 	 F1 = 0.678 	 Size = 77 	 Cond = 0.7327 	 Time = 1.03713098 
+Learning Alpha: 	PR = 0.756 	 RE = 0.65 	 F1 = 0.699 	 Size = 86 	 Alpha = 0.7995121951219513 	 BestP = 1.0210045911320393 	 time = 2.416471717 
+
+Group 101 in category 3 has size 53 and cond = 0.9853415420697743
+Superset: |R| = 159, condR = 0.9316, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.0 	 RE = 0.0 	 F1 = NaN 	 Size = 11 	 Cond = 0.844 	 Time = 0.580864727 
+Learning Alpha: 	PR = 0.081 	 RE = 0.094 	 F1 = 0.087 	 Size = 62 	 Alpha = 0.9024822695035462 	 BestP = 1.0314399775582788 	 time = 0.971371814 
+
+Group 102 in category 3 has size 81 and cond = 0.9919058130978661
+Superset: |R| = 243, condR = 0.9431, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.2 	 RE = 0.012 	 F1 = 0.023 	 Size = 5 	 Cond = 0.8571 	 Time = 1.09196815 
+Learning Alpha: 	PR = 0.045 	 RE = 0.037 	 F1 = 0.041 	 Size = 67 	 Alpha = 0.9107142857142857 	 BestP = 1.0218993760530855 	 time = 1.406492568 
+
+Group 103 in category 3 has size 77 and cond = 0.9157303370786517
+Superset: |R| = 231, condR = 0.9106, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.338 	 F1 = 0.505 	 Size = 26 	 Cond = 0.832 	 Time = 0.767438673 
+Learning Alpha: 	PR = 1.0 	 RE = 0.377 	 F1 = 0.547 	 Size = 29 	 Alpha = 0.8740079365079365 	 BestP = 1.0128237312556407 	 time = 1.073343801 
+
+Group 104 in category 3 has size 77 and cond = 0.9554211112880114
+Superset: |R| = 231, condR = 0.9076, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.038 	 RE = 0.013 	 F1 = 0.019 	 Size = 26 	 Cond = 0.7627 	 Time = 0.848748043 
+Learning Alpha: 	PR = 0.033 	 RE = 0.039 	 F1 = 0.036 	 Size = 91 	 Alpha = 0.8220532319391636 	 BestP = 1.0444586085031675 	 time = 1.968202384 
+
+Group 105 in category 3 has size 62 and cond = 0.9618748598340435
+Superset: |R| = 186, condR = 0.9127, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.016 	 F1 = 0.025 	 Size = 18 	 Cond = 0.8455 	 Time = 0.693881714 
+Learning Alpha: 	PR = 0.386 	 RE = 0.435 	 F1 = 0.409 	 Size = 70 	 Alpha = 0.8841512469831054 	 BestP = 1.0291762280544925 	 time = 1.079685609 
+
+Group 106 in category 3 has size 61 and cond = 0.9861655522250403
+Superset: |R| = 183, condR = 0.9241, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.5 	 RE = 0.016 	 F1 = 0.032 	 Size = 2 	 Cond = 0.3333 	 Time = 0.60658698 
+Learning Alpha: 	PR = 0.133 	 RE = 0.131 	 F1 = 0.132 	 Size = 60 	 Alpha = 0.875 	 BestP = 1.0443497757847533 	 time = 1.307573631 
+
+Group 107 in category 3 has size 31 and cond = 0.9874213836477987
+Superset: |R| = 93, condR = 0.9495, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.2 	 RE = 0.032 	 F1 = 0.056 	 Size = 5 	 Cond = 0.6129 	 Time = 0.335444966 
+Learning Alpha: 	PR = 0.2 	 RE = 0.226 	 F1 = 0.212 	 Size = 35 	 Alpha = 0.9274193548387097 	 BestP = 1.027035460206077 	 time = 0.498916945 
+
+Group 108 in category 3 has size 67 and cond = 0.9340919867235656
+Superset: |R| = 201, condR = 0.8453, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.253 	 RE = 0.343 	 F1 = 0.291 	 Size = 91 	 Cond = 0.7016 	 Time = 0.73105526 
+Learning Alpha: 	PR = 0.253 	 RE = 0.343 	 F1 = 0.291 	 Size = 91 	 Alpha = 0.7016216216216217 	 BestP = 1.0675607852507976 	 time = 1.111595473 
+
+Group 110 in category 3 has size 109 and cond = 0.9903765187056418
+Superset: |R| = 327, condR = 0.9071, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.053 	 RE = 0.018 	 F1 = 0.027 	 Size = 38 	 Cond = 0.8156 	 Time = 1.290728265 
+Learning Alpha: 	PR = 0.057 	 RE = 0.055 	 F1 = 0.056 	 Size = 106 	 Alpha = 0.8386194029850746 	 BestP = 1.040981214641037 	 time = 2.049725452 
+
+Group 111 in category 3 has size 22 and cond = 0.9967320261437909
+Superset: |R| = 66, condR = 0.9334, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.048 	 RE = 0.045 	 F1 = 0.047 	 Size = 21 	 Cond = 0.8952 	 Time = 0.527549106 
+Learning Alpha: 	PR = 0.048 	 RE = 0.045 	 F1 = 0.047 	 Size = 21 	 Alpha = 0.8951841359773371 	 BestP = 1.017849093876568 	 time = 0.566115707 
+
+Group 114 in category 3 has size 22 and cond = 0.9987654320987654
+Superset: |R| = 66, condR = 0.9677, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.167 	 RE = 0.045 	 F1 = 0.071 	 Size = 6 	 Cond = 0.68 	 Time = 0.341885942 
+Learning Alpha: 	PR = 0.071 	 RE = 0.091 	 F1 = 0.08 	 Size = 28 	 Alpha = 0.96 	 BestP = 1.0163395753509261 	 time = 0.573942517 
+
+Group 117 in category 3 has size 152 and cond = 0.9371202113606341
+Superset: |R| = 456, condR = 0.8362, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.057 	 RE = 0.026 	 F1 = 0.036 	 Size = 70 	 Cond = 0.6578 	 Time = 1.191453966 
+Learning Alpha: 	PR = 0.088 	 RE = 0.066 	 F1 = 0.075 	 Size = 113 	 Alpha = 0.7647148058252428 	 BestP = 1.0759902146186464 	 time = 2.112305473 
+
+Group 118 in category 3 has size 33 and cond = 0.9208229426433915
+Superset: |R| = 99, condR = 0.9153, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.762 	 RE = 0.485 	 F1 = 0.593 	 Size = 21 	 Cond = 0.8585 	 Time = 0.574226167 
+Learning Alpha: 	PR = 0.739 	 RE = 0.515 	 F1 = 0.607 	 Size = 23 	 Alpha = 0.876230012300123 	 BestP = 1.0144982287655728 	 time = 1.058134847 
+
+Group 119 in category 3 has size 24 and cond = 0.9913357400722022
+Superset: |R| = 72, condR = 0.9273, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.042 	 F1 = 0.048 	 Size = 18 	 Cond = 0.8872 	 Time = 0.41543965 
+Learning Alpha: 	PR = 0.056 	 RE = 0.042 	 F1 = 0.048 	 Size = 18 	 Alpha = 0.887193098871931 	 BestP = 1.0199115017901628 	 time = 0.37088854 
+
+Group 120 in category 3 has size 81 and cond = 0.8619402985074627
+Superset: |R| = 243, condR = 0.8872, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.833 	 RE = 0.37 	 F1 = 0.513 	 Size = 36 	 Cond = 0.7441 	 Time = 1.035771471 
+Learning Alpha: 	PR = 0.474 	 RE = 0.568 	 F1 = 0.517 	 Size = 97 	 Alpha = 0.872046366473473 	 BestP = 1.0148231107422174 	 time = 2.13500147 
+
+Group 125 in category 3 has size 22 and cond = 0.9946033459255261
+Superset: |R| = 66, condR = 0.9507, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.333 	 RE = 0.045 	 F1 = 0.08 	 Size = 3 	 Cond = 0.875 	 Time = 0.427877076 
+Learning Alpha: 	PR = 0.04 	 RE = 0.045 	 F1 = 0.043 	 Size = 25 	 Alpha = 0.9375 	 BestP = 1.030721613404204 	 time = 0.513259918 
+
+Group 128 in category 3 has size 32 and cond = 0.9959349593495935
+Superset: |R| = 96, condR = 0.9456, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.094 	 F1 = 0.171 	 Size = 3 	 Cond = 0.8462 	 Time = 0.439703474 
+Learning Alpha: 	PR = 0.182 	 RE = 0.188 	 F1 = 0.185 	 Size = 33 	 Alpha = 0.9230769230769231 	 BestP = 1.0176625675252124 	 time = 0.627069763 
+
+Group 131 in category 3 has size 22 and cond = 0.9929618768328445
+Superset: |R| = 66, condR = 0.9629, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.4 	 RE = 0.091 	 F1 = 0.148 	 Size = 5 	 Cond = 0.8925 	 Time = 0.396446956 
+Learning Alpha: 	PR = 0.133 	 RE = 0.091 	 F1 = 0.108 	 Size = 15 	 Alpha = 0.946236559139785 	 BestP = 1.0140424256534175 	 time = 0.589702503 
+
+Group 134 in category 3 has size 29 and cond = 0.9565217391304348
+Superset: |R| = 87, condR = 0.9296, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.333 	 RE = 0.034 	 F1 = 0.062 	 Size = 3 	 Cond = 0.7647 	 Time = 0.361206866 
+Learning Alpha: 	PR = 0.565 	 RE = 0.448 	 F1 = 0.5 	 Size = 23 	 Alpha = 0.8970588235294117 	 BestP = 1.010654616402413 	 time = 0.621940719 
+
+Metadata attribute number 4
+
+Group 1 in category 4 has size 922 and cond = 0.9535311306403423
+Superset: |R| = 2766, condR = 0.7406, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.089 	 RE = 0.009 	 F1 = 0.016 	 Size = 90 	 Cond = 0.6507 	 Time = 5.352978385 
+Learning Alpha: 	PR = 0.143 	 RE = 0.139 	 F1 = 0.141 	 Size = 893 	 Alpha = 0.6943391878744432 	 BestP = 1.0943443183906743 	 time = 11.414258259 
+
+Group 2 in category 4 has size 78 and cond = 0.983278955954323
+Superset: |R| = 234, condR = 0.9203, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.013 	 F1 = 0.018 	 Size = 34 	 Cond = 0.8048 	 Time = 1.306888179 
+Learning Alpha: 	PR = 0.047 	 RE = 0.051 	 F1 = 0.049 	 Size = 86 	 Alpha = 0.9023897677549646 	 BestP = 1.0552085923050403 	 time = 2.034372662 
+
+Group 3 in category 4 has size 217 and cond = 0.9882665596951311
+Superset: |R| = 651, condR = 0.841, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.041 	 RE = 0.023 	 F1 = 0.029 	 Size = 123 	 Cond = 0.7287 	 Time = 2.182337655 
+Learning Alpha: 	PR = 0.047 	 RE = 0.028 	 F1 = 0.035 	 Size = 129 	 Alpha = 0.7795456924526327 	 BestP = 1.067968308984492 	 time = 5.175344941 
+
+Group 4 in category 4 has size 143 and cond = 0.9723059532780708
+Superset: |R| = 429, condR = 0.9003, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.087 	 RE = 0.028 	 F1 = 0.042 	 Size = 46 	 Cond = 0.7524 	 Time = 0.932897676 
+Learning Alpha: 	PR = 0.065 	 RE = 0.049 	 F1 = 0.056 	 Size = 107 	 Alpha = 0.8761950286806883 	 BestP = 1.043000519755197 	 time = 2.171504669 
+
+Group 5 in category 4 has size 164 and cond = 0.9861893801095325
+Superset: |R| = 492, condR = 0.9163, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.042 	 RE = 0.006 	 F1 = 0.011 	 Size = 24 	 Cond = 0.8453 	 Time = 1.741005114 
+Learning Alpha: 	PR = 0.068 	 RE = 0.049 	 F1 = 0.057 	 Size = 118 	 Alpha = 0.8646624944121591 	 BestP = 1.02961214163378 	 time = 2.237193748 
+
+Group 6 in category 4 has size 230 and cond = 0.9857865045058246
+Superset: |R| = 690, condR = 0.8702, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.061 	 RE = 0.009 	 F1 = 0.015 	 Size = 33 	 Cond = 0.5722 	 Time = 1.160020917 
+Learning Alpha: 	PR = 0.075 	 RE = 0.065 	 F1 = 0.07 	 Size = 201 	 Alpha = 0.8128192848020435 	 BestP = 1.0539078560650603 	 time = 3.176228388 
+
+Group 7 in category 4 has size 345 and cond = 0.9819842599323619
+Superset: |R| = 1035, condR = 0.777, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.037 	 RE = 0.043 	 F1 = 0.04 	 Size = 408 	 Cond = 0.6673 	 Time = 3.618676555 
+Learning Alpha: 	PR = 0.037 	 RE = 0.043 	 F1 = 0.04 	 Size = 408 	 Alpha = 0.6672502123934815 	 BestP = 1.0959948461743265 	 time = 5.188060593 
+
+Group 8 in category 4 has size 45 and cond = 0.9953713444140543
+Superset: |R| = 135, condR = 0.9372, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.022 	 F1 = 0.025 	 Size = 35 	 Cond = 0.8584 	 Time = 0.779112412 
+Learning Alpha: 	PR = 0.026 	 RE = 0.022 	 F1 = 0.024 	 Size = 38 	 Alpha = 0.8938356164383561 	 BestP = 1.0366043244275096 	 time = 1.479605101 
+
+Group 9 in category 4 has size 125 and cond = 0.9777022433718559
+Superset: |R| = 375, condR = 0.901, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.022 	 RE = 0.008 	 F1 = 0.012 	 Size = 46 	 Cond = 0.7832 	 Time = 1.378425651 
+Learning Alpha: 	PR = 0.029 	 RE = 0.032 	 F1 = 0.031 	 Size = 136 	 Alpha = 0.8916049727615589 	 BestP = 1.0495841264331691 	 time = 3.243874903 
+
+Group 10 in category 4 has size 46 and cond = 0.982562363768467
+Superset: |R| = 138, condR = 0.9555, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.071 	 RE = 0.022 	 F1 = 0.033 	 Size = 14 	 Cond = 0.8219 	 Time = 0.722584013 
+Learning Alpha: 	PR = 0.276 	 RE = 0.457 	 F1 = 0.344 	 Size = 76 	 Alpha = 0.9554655870445344 	 BestP = 1.0194363760281373 	 time = 1.020420102 
+
+Group 11 in category 4 has size 557 and cond = 0.9733678086619263
+Superset: |R| = 1671, condR = 0.781, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.075 	 RE = 0.014 	 F1 = 0.024 	 Size = 107 	 Cond = 0.6551 	 Time = 2.945156681 
+Learning Alpha: 	PR = 0.075 	 RE = 0.014 	 F1 = 0.024 	 Size = 107 	 Alpha = 0.7197467441316384 	 BestP = 1.085052014722753 	 time = 9.987848433 
+
+Group 12 in category 4 has size 78 and cond = 0.9927710843373494
+Superset: |R| = 234, condR = 0.8912, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.019 	 RE = 0.013 	 F1 = 0.015 	 Size = 53 	 Cond = 0.8051 	 Time = 1.489379505 
+Learning Alpha: 	PR = 0.019 	 RE = 0.013 	 F1 = 0.015 	 Size = 53 	 Alpha = 0.8050778050778051 	 BestP = 1.0392832262319234 	 time = 1.632741241 
+
+Group 13 in category 4 has size 1021 and cond = 0.9339384074962988
+Superset: |R| = 3063, condR = 0.6956, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.092 	 RE = 0.013 	 F1 = 0.022 	 Size = 141 	 Cond = 0.5863 	 Time = 5.607203939 
+Learning Alpha: 	PR = 0.156 	 RE = 0.167 	 F1 = 0.161 	 Size = 1087 	 Alpha = 0.6638525459688825 	 BestP = 1.118186580335053 	 time = 14.167214156 
+
+Group 15 in category 4 has size 77 and cond = 0.9925276990466375
+Superset: |R| = 231, condR = 0.8984, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.039 	 F1 = 0.048 	 Size = 48 	 Cond = 0.7795 	 Time = 1.794466734 
+Learning Alpha: 	PR = 0.046 	 RE = 0.052 	 F1 = 0.049 	 Size = 87 	 Alpha = 0.8070606003398151 	 BestP = 1.0546609780974767 	 time = 2.762113013 
+
+Group 16 in category 4 has size 532 and cond = 0.9701985615471971
+Superset: |R| = 1596, condR = 0.8283, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.111 	 RE = 0.006 	 F1 = 0.011 	 Size = 27 	 Cond = 0.6872 	 Time = 4.238903222 
+Learning Alpha: 	PR = 0.092 	 RE = 0.118 	 F1 = 0.103 	 Size = 688 	 Alpha = 0.8240556660039762 	 BestP = 1.0754498769660472 	 time = 6.999331041 
+
+Group 17 in category 4 has size 48 and cond = 0.9974884889074926
+Superset: |R| = 144, condR = 0.9129, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.038 	 RE = 0.021 	 F1 = 0.027 	 Size = 26 	 Cond = 0.8534 	 Time = 0.775690813 
+Learning Alpha: 	PR = 0.038 	 RE = 0.021 	 F1 = 0.027 	 Size = 26 	 Alpha = 0.8533526290400386 	 BestP = 1.0273014195003256 	 time = 0.785204702 
+
+Group 18 in category 4 has size 96 and cond = 0.9939767675319088
+Superset: |R| = 288, condR = 0.918, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.021 	 F1 = 0.031 	 Size = 32 	 Cond = 0.8366 	 Time = 1.466887369 
+Learning Alpha: 	PR = 0.04 	 RE = 0.042 	 F1 = 0.041 	 Size = 100 	 Alpha = 0.8570640176600441 	 BestP = 1.0356220208748785 	 time = 2.153816499 
+
+Group 19 in category 4 has size 92 and cond = 0.989975616364129
+Superset: |R| = 276, condR = 0.8391, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.022 	 F1 = 0.024 	 Size = 78 	 Cond = 0.5578 	 Time = 0.875065956 
+Learning Alpha: 	PR = 0.042 	 RE = 0.054 	 F1 = 0.047 	 Size = 119 	 Alpha = 0.9032791220415178 	 BestP = 1.1534672173953737 	 time = 2.237703773 
+
+Group 20 in category 4 has size 90 and cond = 0.9848397840817733
+Superset: |R| = 270, condR = 0.8695, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.049 	 RE = 0.056 	 F1 = 0.052 	 Size = 102 	 Cond = 0.8292 	 Time = 1.163125746 
+Learning Alpha: 	PR = 0.049 	 RE = 0.056 	 F1 = 0.052 	 Size = 102 	 Alpha = 0.8292367399741267 	 BestP = 1.036891969051535 	 time = 1.448882227 
+
+Group 21 in category 4 has size 204 and cond = 0.9720934723831596
+Superset: |R| = 612, condR = 0.8497, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.021 	 RE = 0.01 	 F1 = 0.013 	 Size = 94 	 Cond = 0.6815 	 Time = 2.090242967 
+Learning Alpha: 	PR = 0.012 	 RE = 0.01 	 F1 = 0.011 	 Size = 162 	 Alpha = 0.8009476506795051 	 BestP = 1.080451533109671 	 time = 5.2196019 
+
+Group 22 in category 4 has size 262 and cond = 0.9799148936170213
+Superset: |R| = 786, condR = 0.8546, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.04 	 RE = 0.008 	 F1 = 0.013 	 Size = 50 	 Cond = 0.6885 	 Time = 2.456730479 
+Learning Alpha: 	PR = 0.044 	 RE = 0.042 	 F1 = 0.043 	 Size = 251 	 Alpha = 0.8247748242530757 	 BestP = 1.0655373729316604 	 time = 4.530883711 
+
+Group 23 in category 4 has size 39 and cond = 0.9957225786739994
+Superset: |R| = 117, condR = 0.9657, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.031 	 RE = 0.026 	 F1 = 0.028 	 Size = 32 	 Cond = 0.9147 	 Time = 0.693207996 
+Learning Alpha: 	PR = 0.059 	 RE = 0.077 	 F1 = 0.067 	 Size = 51 	 Alpha = 0.9573438874230431 	 BestP = 1.0187903465425157 	 time = 0.723915932 
+
+Group 24 in category 4 has size 130 and cond = 0.993823347745522
+Superset: |R| = 390, condR = 0.914, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.008 	 F1 = 0.012 	 Size = 38 	 Cond = 0.7839 	 Time = 1.468779515 
+Learning Alpha: 	PR = 0.044 	 RE = 0.038 	 F1 = 0.041 	 Size = 114 	 Alpha = 0.8919368246051538 	 BestP = 1.0347615169624047 	 time = 2.640096116 
+
+Group 25 in category 4 has size 66 and cond = 0.9930859645079512
+Superset: |R| = 198, condR = 0.927, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.015 	 F1 = 0.026 	 Size = 10 	 Cond = 0.8311 	 Time = 0.988838006 
+Learning Alpha: 	PR = 0.057 	 RE = 0.045 	 F1 = 0.05 	 Size = 53 	 Alpha = 0.8733333333333333 	 BestP = 1.0329442868816998 	 time = 1.433646 
+
+Group 26 in category 4 has size 37 and cond = 0.9819354838709677
+Superset: |R| = 111, condR = 0.9222, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.045 	 RE = 0.027 	 F1 = 0.034 	 Size = 22 	 Cond = 0.8511 	 Time = 0.48941523 
+Learning Alpha: 	PR = 0.037 	 RE = 0.027 	 F1 = 0.031 	 Size = 27 	 Alpha = 0.8883062401678028 	 BestP = 1.0312103240219201 	 time = 0.90342863 
+
+Group 27 in category 4 has size 538 and cond = 0.9586941780490168
+Superset: |R| = 1614, condR = 0.7867, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.047 	 RE = 0.009 	 F1 = 0.016 	 Size = 106 	 Cond = 0.6699 	 Time = 4.725324115 
+Learning Alpha: 	PR = 0.149 	 RE = 0.117 	 F1 = 0.131 	 Size = 422 	 Alpha = 0.7524105665544589 	 BestP = 1.0848802336566277 	 time = 7.796725964 
+
+Group 28 in category 4 has size 504 and cond = 0.9636412604363048
+Superset: |R| = 1512, condR = 0.8145, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.035 	 RE = 0.008 	 F1 = 0.013 	 Size = 113 	 Cond = 0.5591 	 Time = 2.861656319 
+Learning Alpha: 	PR = 0.074 	 RE = 0.075 	 F1 = 0.074 	 Size = 517 	 Alpha = 0.8071044222002913 	 BestP = 1.1010493739105445 	 time = 8.134522905 
+
+Group 29 in category 4 has size 42 and cond = 0.9945180447693011
+Superset: |R| = 126, condR = 0.9447, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.031 	 RE = 0.024 	 F1 = 0.027 	 Size = 32 	 Cond = 0.8929 	 Time = 1.072658331 
+Learning Alpha: 	PR = 0.031 	 RE = 0.024 	 F1 = 0.027 	 Size = 32 	 Alpha = 0.8929188255613126 	 BestP = 1.02640707874588 	 time = 1.152058726 
+
+Group 30 in category 4 has size 112 and cond = 0.9836025452765541
+Superset: |R| = 336, condR = 0.9187, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.158 	 RE = 0.027 	 F1 = 0.046 	 Size = 19 	 Cond = 0.8333 	 Time = 1.886974518 
+Learning Alpha: 	PR = 0.089 	 RE = 0.071 	 F1 = 0.079 	 Size = 90 	 Alpha = 0.875 	 BestP = 1.0278434268833088 	 time = 2.415369193 
+
+Group 31 in category 4 has size 36 and cond = 0.9911373707533235
+Superset: |R| = 108, condR = 0.8851, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.057 	 RE = 0.056 	 F1 = 0.056 	 Size = 35 	 Cond = 0.6806 	 Time = 0.491623091 
+Learning Alpha: 	PR = 0.06 	 RE = 0.083 	 F1 = 0.07 	 Size = 50 	 Alpha = 0.9201474201474201 	 BestP = 1.1041170170590384 	 time = 0.926001128 
+
+Group 32 in category 4 has size 108 and cond = 0.9845440494590417
+Superset: |R| = 324, condR = 0.9098, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.009 	 F1 = 0.014 	 Size = 34 	 Cond = 0.8155 	 Time = 1.402853946 
+Learning Alpha: 	PR = 0.043 	 RE = 0.046 	 F1 = 0.045 	 Size = 116 	 Alpha = 0.8846715328467153 	 BestP = 1.0349658423297616 	 time = 2.26833131 
+
+Group 33 in category 4 has size 551 and cond = 0.9715123586091328
+Superset: |R| = 1653, condR = 0.8255, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.024 	 RE = 0.004 	 F1 = 0.006 	 Size = 85 	 Cond = 0.6753 	 Time = 2.910181758 
+Learning Alpha: 	PR = 0.056 	 RE = 0.024 	 F1 = 0.033 	 Size = 234 	 Alpha = 0.7970741464322262 	 BestP = 1.0575442899444958 	 time = 7.114393863 
+
+Group 34 in category 4 has size 490 and cond = 0.9406859364223462
+Superset: |R| = 1470, condR = 0.8142, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.02 	 RE = 0.002 	 F1 = 0.004 	 Size = 51 	 Cond = 0.6692 	 Time = 3.707915577 
+Learning Alpha: 	PR = 0.09 	 RE = 0.088 	 F1 = 0.089 	 Size = 480 	 Alpha = 0.7932454695222406 	 BestP = 1.0770862236045842 	 time = 7.234574245 
+
+Group 35 in category 4 has size 302 and cond = 0.9770114942528736
+Superset: |R| = 906, condR = 0.8243, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.05 	 RE = 0.02 	 F1 = 0.028 	 Size = 121 	 Cond = 0.6124 	 Time = 3.834566984 
+Learning Alpha: 	PR = 0.05 	 RE = 0.043 	 F1 = 0.046 	 Size = 260 	 Alpha = 0.8304145783180079 	 BestP = 1.1009390483807926 	 time = 8.018141862 
+
+Group 36 in category 4 has size 27 and cond = 0.9891678975873953
+Superset: |R| = 81, condR = 0.9218, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.057 	 RE = 0.074 	 F1 = 0.065 	 Size = 35 	 Cond = 0.8892 	 Time = 0.5613866 
+Learning Alpha: 	PR = 0.057 	 RE = 0.074 	 F1 = 0.065 	 Size = 35 	 Alpha = 0.8891921397379913 	 BestP = 1.023303827434816 	 time = 0.615059619 
+
+Group 37 in category 4 has size 46 and cond = 0.9918121094591683
+Superset: |R| = 138, condR = 0.9044, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.025 	 RE = 0.022 	 F1 = 0.023 	 Size = 40 	 Cond = 0.7974 	 Time = 0.764131621 
+Learning Alpha: 	PR = 0.023 	 RE = 0.022 	 F1 = 0.022 	 Size = 43 	 Alpha = 0.8353645612547689 	 BestP = 1.0586889385816272 	 time = 1.567229042 
+
+Group 38 in category 4 has size 66 and cond = 0.9964805631099024
+Superset: |R| = 198, condR = 0.9381, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.071 	 RE = 0.015 	 F1 = 0.025 	 Size = 14 	 Cond = 0.8307 	 Time = 0.883451684 
+Learning Alpha: 	PR = 0.062 	 RE = 0.045 	 F1 = 0.053 	 Size = 48 	 Alpha = 0.9153674832962138 	 BestP = 1.0308215749684886 	 time = 1.524501717 
+
+Group 39 in category 4 has size 97 and cond = 0.99174556931294
+Superset: |R| = 291, condR = 0.8381, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.035 	 RE = 0.031 	 F1 = 0.033 	 Size = 85 	 Cond = 0.7112 	 Time = 1.637904379 
+Learning Alpha: 	PR = 0.035 	 RE = 0.031 	 F1 = 0.033 	 Size = 85 	 Alpha = 0.711211778029445 	 BestP = 1.0760760495805137 	 time = 1.820392558 
+
+Group 40 in category 4 has size 25 and cond = 1.0
+Superset: |R| = 75, condR = 0.9551, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.04 	 F1 = 0.054 	 Size = 12 	 Cond = 0.9217 	 Time = 0.459993398 
+Learning Alpha: 	PR = 0.083 	 RE = 0.04 	 F1 = 0.054 	 Size = 12 	 Alpha = 0.9217391304347826 	 BestP = 1.0151866484510579 	 time = 0.358465046 
+
+Group 41 in category 4 has size 113 and cond = 0.996290234588107
+Superset: |R| = 339, condR = 0.9273, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.009 	 F1 = 0.016 	 Size = 16 	 Cond = 0.7939 	 Time = 1.210536184 
+Learning Alpha: 	PR = 0.056 	 RE = 0.062 	 F1 = 0.059 	 Size = 124 	 Alpha = 0.8711832061068703 	 BestP = 1.0373966435337991 	 time = 2.287148665 
+
+Group 42 in category 4 has size 287 and cond = 0.9865210944871277
+Superset: |R| = 861, condR = 0.8622, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.0 	 RE = 0.0 	 F1 = NaN 	 Size = 13 	 Cond = 0.7543 	 Time = 2.165302546 
+Learning Alpha: 	PR = 0.1 	 RE = 0.077 	 F1 = 0.087 	 Size = 220 	 Alpha = 0.8003685503685503 	 BestP = 1.0591811735960055 	 time = 3.873611727 
+
+Group 44 in category 4 has size 40 and cond = 0.9902227050516024
+Superset: |R| = 120, condR = 0.9199, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.024 	 RE = 0.025 	 F1 = 0.024 	 Size = 42 	 Cond = 0.8198 	 Time = 0.402079626 
+Learning Alpha: 	PR = 0.035 	 RE = 0.05 	 F1 = 0.041 	 Size = 57 	 Alpha = 0.9099197665937272 	 BestP = 1.0625865161272179 	 time = 0.688376415 
+
+Group 45 in category 4 has size 75 and cond = 0.9947170860558877
+Superset: |R| = 225, condR = 0.939, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.059 	 RE = 0.013 	 F1 = 0.022 	 Size = 17 	 Cond = 0.8955 	 Time = 1.306045668 
+Learning Alpha: 	PR = 0.029 	 RE = 0.013 	 F1 = 0.018 	 Size = 34 	 Alpha = 0.9085693359375 	 BestP = 1.0244435572705444 	 time = 1.670657822 
+
+Group 46 in category 4 has size 31 and cond = 0.9958946288060212
+Superset: |R| = 93, condR = 0.9155, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.086 	 RE = 0.097 	 F1 = 0.091 	 Size = 35 	 Cond = 0.8408 	 Time = 0.653887501 
+Learning Alpha: 	PR = 0.086 	 RE = 0.097 	 F1 = 0.091 	 Size = 35 	 Alpha = 0.8407643312101911 	 BestP = 1.0421150833652786 	 time = 0.749314867 
+
+Group 47 in category 4 has size 122 and cond = 0.988835225490811
+Superset: |R| = 366, condR = 0.866, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.041 	 RE = 0.025 	 F1 = 0.031 	 Size = 73 	 Cond = 0.7215 	 Time = 2.32530535 
+Learning Alpha: 	PR = 0.048 	 RE = 0.033 	 F1 = 0.039 	 Size = 83 	 Alpha = 0.8259085764587526 	 BestP = 1.0917652788357006 	 time = 4.994455964 
+
+Group 48 in category 4 has size 73 and cond = 0.9907994923857868
+Superset: |R| = 219, condR = 0.9396, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.062 	 RE = 0.014 	 F1 = 0.022 	 Size = 16 	 Cond = 0.8435 	 Time = 1.007164443 
+Learning Alpha: 	PR = 0.075 	 RE = 0.068 	 F1 = 0.071 	 Size = 67 	 Alpha = 0.9021864211737629 	 BestP = 1.0274739548318166 	 time = 1.74993445 
+
+Group 49 in category 4 has size 44 and cond = 0.9923625254582484
+Superset: |R| = 132, condR = 0.9597, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.5 	 RE = 0.023 	 F1 = 0.043 	 Size = 2 	 Cond = 0.8824 	 Time = 0.600392188 
+Learning Alpha: 	PR = 0.097 	 RE = 0.068 	 F1 = 0.08 	 Size = 31 	 Alpha = 0.9411764705882353 	 BestP = 1.0184063967385368 	 time = 0.947697899 
+
+Group 50 in category 4 has size 146 and cond = 0.9895872071402008
+Superset: |R| = 438, condR = 0.7883, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.03 	 RE = 0.048 	 F1 = 0.037 	 Size = 235 	 Cond = 0.7137 	 Time = 2.295709564 
+Learning Alpha: 	PR = 0.03 	 RE = 0.048 	 F1 = 0.037 	 Size = 235 	 Alpha = 0.7137414324711797 	 BestP = 1.0724016278492599 	 time = 2.830185349 
+
+Group 51 in category 4 has size 79 and cond = 0.977536102692102
+Superset: |R| = 237, condR = 0.9417, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.013 	 F1 = 0.022 	 Size = 12 	 Cond = 0.8372 	 Time = 1.280490232 
+Learning Alpha: 	PR = 0.288 	 RE = 0.215 	 F1 = 0.246 	 Size = 59 	 Alpha = 0.9186046511627908 	 BestP = 1.0180471717004027 	 time = 2.23987601 
+
+Group 52 in category 4 has size 375 and cond = 0.9733555370524563
+Superset: |R| = 1125, condR = 0.8482, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.049 	 RE = 0.011 	 F1 = 0.018 	 Size = 81 	 Cond = 0.7307 	 Time = 3.457970043 
+Learning Alpha: 	PR = 0.044 	 RE = 0.035 	 F1 = 0.039 	 Size = 296 	 Alpha = 0.7980210139753137 	 BestP = 1.0662395003410345 	 time = 5.839908575 
+
+Group 53 in category 4 has size 82 and cond = 0.9850198715988994
+Superset: |R| = 246, condR = 0.9031, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.036 	 RE = 0.012 	 F1 = 0.018 	 Size = 28 	 Cond = 0.7893 	 Time = 0.969778365 
+Learning Alpha: 	PR = 0.031 	 RE = 0.037 	 F1 = 0.034 	 Size = 96 	 Alpha = 0.8814979480164158 	 BestP = 1.0524456067177153 	 time = 1.855239976 
+
+Group 54 in category 4 has size 30 and cond = 0.9958741619391439
+Superset: |R| = 90, condR = 0.9284, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.125 	 RE = 0.033 	 F1 = 0.053 	 Size = 8 	 Cond = 0.7607 	 Time = 0.355748959 
+Learning Alpha: 	PR = 0.122 	 RE = 0.167 	 F1 = 0.141 	 Size = 41 	 Alpha = 0.8803418803418803 	 BestP = 1.0520945193858888 	 time = 0.715476621 
+
+Group 55 in category 4 has size 92 and cond = 0.9598736446683173
+Superset: |R| = 276, condR = 0.8777, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.019 	 RE = 0.011 	 F1 = 0.014 	 Size = 54 	 Cond = 0.7032 	 Time = 1.014762069 
+Learning Alpha: 	PR = 0.043 	 RE = 0.054 	 F1 = 0.048 	 Size = 117 	 Alpha = 0.8701574264202601 	 BestP = 1.063862863130103 	 time = 2.651716353 
+
+Group 57 in category 4 has size 33 and cond = 0.9980188211986132
+Superset: |R| = 99, condR = 0.9432, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.061 	 F1 = 0.07 	 Size = 24 	 Cond = 0.7855 	 Time = 0.599400088 
+Learning Alpha: 	PR = 0.081 	 RE = 0.091 	 F1 = 0.086 	 Size = 37 	 Alpha = 0.8391038696537678 	 BestP = 1.0364459499600427 	 time = 1.128272559 
+
+Group 58 in category 4 has size 47 and cond = 0.93671887359595
+Superset: |R| = 141, condR = 0.886, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.434 	 RE = 0.702 	 F1 = 0.537 	 Size = 76 	 Cond = 0.8447 	 Time = 0.896814174 
+Learning Alpha: 	PR = 0.434 	 RE = 0.702 	 F1 = 0.537 	 Size = 76 	 Alpha = 0.8446866485013624 	 BestP = 1.0256174676387442 	 time = 1.289884635 
+
+Group 60 in category 4 has size 50 and cond = 0.9941747572815534
+Superset: |R| = 150, condR = 0.9556, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.4 	 RE = 0.04 	 F1 = 0.073 	 Size = 5 	 Cond = 0.7727 	 Time = 0.689637918 
+Learning Alpha: 	PR = 0.093 	 RE = 0.08 	 F1 = 0.086 	 Size = 43 	 Alpha = 0.9431818181818181 	 BestP = 1.021330193322974 	 time = 1.198402741 
+
+Group 61 in category 4 has size 279 and cond = 0.9848059841047219
+Superset: |R| = 837, condR = 0.867, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.041 	 RE = 0.011 	 F1 = 0.017 	 Size = 73 	 Cond = 0.6673 	 Time = 2.764890146 
+Learning Alpha: 	PR = 0.078 	 RE = 0.061 	 F1 = 0.068 	 Size = 219 	 Alpha = 0.854445130854768 	 BestP = 1.0624564840332344 	 time = 5.51814452 
+
+Group 63 in category 4 has size 30 and cond = 0.9977678571428571
+Superset: |R| = 90, condR = 0.9593, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.067 	 RE = 0.033 	 F1 = 0.044 	 Size = 15 	 Cond = 0.898 	 Time = 0.428611519 
+Learning Alpha: 	PR = 0.029 	 RE = 0.033 	 F1 = 0.031 	 Size = 35 	 Alpha = 0.9490114464099896 	 BestP = 1.0168906082855647 	 time = 0.660243147 
+
+Group 64 in category 4 has size 246 and cond = 0.9875357293472659
+Superset: |R| = 738, condR = 0.8719, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.027 	 RE = 0.008 	 F1 = 0.013 	 Size = 73 	 Cond = 0.6082 	 Time = 1.434185723 
+Learning Alpha: 	PR = 0.052 	 RE = 0.053 	 F1 = 0.052 	 Size = 250 	 Alpha = 0.8530794546309357 	 BestP = 1.070856485182036 	 time = 3.790542985 
+
+Group 65 in category 4 has size 62 and cond = 0.9953045159508355
+Superset: |R| = 186, condR = 0.9439, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.091 	 RE = 0.016 	 F1 = 0.027 	 Size = 11 	 Cond = 0.7756 	 Time = 0.946561521 
+Learning Alpha: 	PR = 0.03 	 RE = 0.032 	 F1 = 0.031 	 Size = 66 	 Alpha = 0.9438902743142145 	 BestP = 1.0377870322729965 	 time = 1.793404428 
+
+Group 67 in category 4 has size 34 and cond = 0.991751269035533
+Superset: |R| = 102, condR = 0.9285, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.045 	 RE = 0.029 	 F1 = 0.036 	 Size = 22 	 Cond = 0.8825 	 Time = 0.390998595 
+Learning Alpha: 	PR = 0.045 	 RE = 0.029 	 F1 = 0.036 	 Size = 22 	 Alpha = 0.8824593128390597 	 BestP = 1.0303532346489133 	 time = 0.554179988 
+
+Group 68 in category 4 has size 21 and cond = 1.0
+Superset: |R| = 63, condR = 0.9575, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.048 	 F1 = 0.065 	 Size = 10 	 Cond = 0.83 	 Time = 0.446733499 
+Learning Alpha: 	PR = 0.077 	 RE = 0.095 	 F1 = 0.085 	 Size = 26 	 Alpha = 0.9362606232294618 	 BestP = 1.0330849682297822 	 time = 0.584923235 
+
+Group 69 in category 4 has size 22 and cond = 0.9928122192273136
+Superset: |R| = 66, condR = 0.9247, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.045 	 F1 = 0.05 	 Size = 18 	 Cond = 0.8342 	 Time = 0.282437963 
+Learning Alpha: 	PR = 0.056 	 RE = 0.045 	 F1 = 0.05 	 Size = 18 	 Alpha = 0.8342105263157895 	 BestP = 1.0305215171258384 	 time = 0.374417635 
+
+Group 71 in category 4 has size 98 and cond = 0.9900124843945068
+Superset: |R| = 294, condR = 0.9303, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.111 	 RE = 0.01 	 F1 = 0.019 	 Size = 9 	 Cond = 0.3805 	 Time = 0.800975007 
+Learning Alpha: 	PR = 0.106 	 RE = 0.092 	 F1 = 0.098 	 Size = 85 	 Alpha = 0.8451327433628318 	 BestP = 1.0304596899802096 	 time = 1.509455402 
+
+Group 72 in category 4 has size 26 and cond = 0.9983354140657511
+Superset: |R| = 78, condR = 0.9485, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.08 	 RE = 0.077 	 F1 = 0.078 	 Size = 25 	 Cond = 0.9103 	 Time = 0.439454841 
+Learning Alpha: 	PR = 0.08 	 RE = 0.077 	 F1 = 0.078 	 Size = 25 	 Alpha = 0.910328262610088 	 BestP = 1.0229309154734367 	 time = 0.346546187 
+
+Group 73 in category 4 has size 34 and cond = 0.9979226175019476
+Superset: |R| = 102, condR = 0.9467, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.031 	 RE = 0.029 	 F1 = 0.03 	 Size = 32 	 Cond = 0.9022 	 Time = 0.465203939 
+Learning Alpha: 	PR = 0.031 	 RE = 0.029 	 F1 = 0.03 	 Size = 32 	 Alpha = 0.9021820917983446 	 BestP = 1.03074804204768 	 time = 0.464107748 
+
+Group 74 in category 4 has size 27 and cond = 1.0
+Superset: |R| = 81, condR = 0.9703, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.026 	 RE = 0.037 	 F1 = 0.03 	 Size = 39 	 Cond = 0.9596 	 Time = 0.661944068 
+Learning Alpha: 	PR = 0.333 	 RE = 1.0 	 F1 = 0.5 	 Size = 81 	 Alpha = 1.0 	 BestP = 1.0306081886842453 	 time = 0.546124827 
+
+Group 77 in category 4 has size 91 and cond = 0.9950678175092479
+Superset: |R| = 273, condR = 0.8625, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.041 	 RE = 0.033 	 F1 = 0.037 	 Size = 73 	 Cond = 0.6381 	 Time = 1.009698663 
+Learning Alpha: 	PR = 0.039 	 RE = 0.055 	 F1 = 0.046 	 Size = 128 	 Alpha = 0.8869161485732504 	 BestP = 1.1164100725462838 	 time = 2.23897715 
+
+Group 78 in category 4 has size 23 and cond = 0.9989356040447046
+Superset: |R| = 69, condR = 0.9611, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.067 	 RE = 0.043 	 F1 = 0.053 	 Size = 15 	 Cond = 0.8768 	 Time = 0.31018293 
+Learning Alpha: 	PR = 0.087 	 RE = 0.087 	 F1 = 0.087 	 Size = 23 	 Alpha = 0.938375350140056 	 BestP = 1.0242804015925104 	 time = 0.602237308 
+
+Group 79 in category 4 has size 49 and cond = 0.9973219068023568
+Superset: |R| = 147, condR = 0.9287, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.059 	 RE = 0.041 	 F1 = 0.048 	 Size = 34 	 Cond = 0.8531 	 Time = 0.950219502 
+Learning Alpha: 	PR = 0.051 	 RE = 0.041 	 F1 = 0.045 	 Size = 39 	 Alpha = 0.8898221343873518 	 BestP = 1.0275332275592028 	 time = 1.602905824 
+
+Group 80 in category 4 has size 62 and cond = 0.9901158827539196
+Superset: |R| = 186, condR = 0.9232, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.016 	 F1 = 0.025 	 Size = 18 	 Cond = 0.7709 	 Time = 0.820208796 
+Learning Alpha: 	PR = 0.06 	 RE = 0.081 	 F1 = 0.068 	 Size = 84 	 Alpha = 0.9140696608615949 	 BestP = 1.0534034329195703 	 time = 1.427814081 
+
+Group 81 in category 4 has size 110 and cond = 0.9080148799458911
+Superset: |R| = 330, condR = 0.8986, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.009 	 F1 = 0.014 	 Size = 34 	 Cond = 0.7967 	 Time = 1.159227811 
+Learning Alpha: 	PR = 0.39 	 RE = 0.518 	 F1 = 0.445 	 Size = 146 	 Alpha = 0.8729175565997437 	 BestP = 1.0209379703898205 	 time = 2.707824433 
+
+Group 82 in category 4 has size 32 and cond = 0.993103448275862
+Superset: |R| = 96, condR = 0.9521, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.5 	 RE = 0.031 	 F1 = 0.059 	 Size = 2 	 Cond = 0.8 	 Time = 0.589200108 
+Learning Alpha: 	PR = 0.085 	 RE = 0.125 	 F1 = 0.101 	 Size = 47 	 Alpha = 0.95 	 BestP = 1.019840768946672 	 time = 0.762789179 
+
+Group 83 in category 4 has size 38 and cond = 0.9936416184971099
+Superset: |R| = 114, condR = 0.9256, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.048 	 RE = 0.026 	 F1 = 0.034 	 Size = 21 	 Cond = 0.8257 	 Time = 0.814023745 
+Learning Alpha: 	PR = 0.04 	 RE = 0.026 	 F1 = 0.032 	 Size = 25 	 Alpha = 0.8474945533769063 	 BestP = 1.0340673759638668 	 time = 1.194094873 
+
+Group 85 in category 4 has size 70 and cond = 0.996774666471192
+Superset: |R| = 210, condR = 0.937, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.032 	 RE = 0.014 	 F1 = 0.02 	 Size = 31 	 Cond = 0.8244 	 Time = 0.741326505 
+Learning Alpha: 	PR = 0.052 	 RE = 0.057 	 F1 = 0.054 	 Size = 77 	 Alpha = 0.9341648879402349 	 BestP = 1.0404877876987253 	 time = 1.682576087 
+
+Group 86 in category 4 has size 33 and cond = 0.99639379733141
+Superset: |R| = 99, condR = 0.9509, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.077 	 RE = 0.061 	 F1 = 0.068 	 Size = 26 	 Cond = 0.8903 	 Time = 0.539453691 
+Learning Alpha: 	PR = 0.061 	 RE = 0.061 	 F1 = 0.061 	 Size = 33 	 Alpha = 0.9314584511023176 	 BestP = 1.024162149654226 	 time = 0.955382537 
+
+Group 89 in category 4 has size 24 and cond = 0.997196261682243
+Superset: |R| = 72, condR = 0.9451, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.043 	 RE = 0.042 	 F1 = 0.043 	 Size = 23 	 Cond = 0.9099 	 Time = 0.533583186 
+Learning Alpha: 	PR = 0.043 	 RE = 0.042 	 F1 = 0.043 	 Size = 23 	 Alpha = 0.9098527746319366 	 BestP = 1.0210292152506826 	 time = 0.529666384 
+
+Group 90 in category 4 has size 41 and cond = 0.9957994224205828
+Superset: |R| = 123, condR = 0.9235, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.061 	 RE = 0.049 	 F1 = 0.054 	 Size = 33 	 Cond = 0.8654 	 Time = 0.520434994 
+Learning Alpha: 	PR = 0.061 	 RE = 0.049 	 F1 = 0.054 	 Size = 33 	 Alpha = 0.8653662268120099 	 BestP = 1.0330787830788213 	 time = 0.693979778 
+
+Group 91 in category 4 has size 36 and cond = 0.9901112484548825
+Superset: |R| = 108, condR = 0.9245, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.028 	 F1 = 0.029 	 Size = 34 	 Cond = 0.6364 	 Time = 0.47384252 
+Learning Alpha: 	PR = 0.054 	 RE = 0.083 	 F1 = 0.065 	 Size = 56 	 Alpha = 0.9545454545454546 	 BestP = 1.068084981627707 	 time = 1.048569222 
+
+Group 92 in category 4 has size 81 and cond = 0.9931732293063513
+Superset: |R| = 243, condR = 0.8917, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.042 	 RE = 0.025 	 F1 = 0.031 	 Size = 48 	 Cond = 0.7774 	 Time = 1.461807315 
+Learning Alpha: 	PR = 0.028 	 RE = 0.037 	 F1 = 0.032 	 Size = 107 	 Alpha = 0.8469701514924253 	 BestP = 1.0559817784128407 	 time = 3.034089687 
+
+Group 95 in category 4 has size 44 and cond = 0.9982486865148862
+Superset: |R| = 132, condR = 0.9329, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.042 	 RE = 0.023 	 F1 = 0.029 	 Size = 24 	 Cond = 0.8147 	 Time = 0.784281011 
+Learning Alpha: 	PR = 0.04 	 RE = 0.023 	 F1 = 0.029 	 Size = 25 	 Alpha = 0.837829489291598 	 BestP = 1.028475370611869 	 time = 1.379686325 
+
+Group 96 in category 4 has size 29 and cond = 0.9974715549936789
+Superset: |R| = 87, condR = 0.9496, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.034 	 F1 = 0.051 	 Size = 10 	 Cond = 0.8795 	 Time = 0.484286959 
+Learning Alpha: 	PR = 0.061 	 RE = 0.069 	 F1 = 0.065 	 Size = 33 	 Alpha = 0.93974175035868 	 BestP = 1.0225867126370782 	 time = 0.828540581 
+
+Group 97 in category 4 has size 24 and cond = 0.9770713913496613
+Superset: |R| = 72, condR = 0.8767, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.042 	 F1 = 0.034 	 Size = 35 	 Cond = 0.8176 	 Time = 0.338716121 
+Learning Alpha: 	PR = 0.029 	 RE = 0.042 	 F1 = 0.034 	 Size = 35 	 Alpha = 0.817625458996328 	 BestP = 1.0427882515326083 	 time = 0.452093167 
+
+Group 98 in category 4 has size 106 and cond = 0.9879636937647988
+Superset: |R| = 318, condR = 0.8641, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.013 	 RE = 0.009 	 F1 = 0.011 	 Size = 79 	 Cond = 0.7318 	 Time = 1.907542056 
+Learning Alpha: 	PR = 0.013 	 RE = 0.009 	 F1 = 0.011 	 Size = 79 	 Alpha = 0.7318408266191032 	 BestP = 1.068298804397523 	 time = 2.42887827 
+
+Group 99 in category 4 has size 29 and cond = 0.9971387696709585
+Superset: |R| = 87, condR = 0.9365, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.091 	 RE = 0.069 	 F1 = 0.078 	 Size = 22 	 Cond = 0.8536 	 Time = 0.358338088 
+Learning Alpha: 	PR = 0.054 	 RE = 0.069 	 F1 = 0.061 	 Size = 37 	 Alpha = 0.8901913875598086 	 BestP = 1.0451670092389282 	 time = 0.932378511 
+
+Group 104 in category 4 has size 26 and cond = 0.9990314769975787
+Superset: |R| = 78, condR = 0.9441, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.038 	 F1 = 0.056 	 Size = 10 	 Cond = 0.8873 	 Time = 0.454536226 
+Learning Alpha: 	PR = 0.067 	 RE = 0.038 	 F1 = 0.049 	 Size = 15 	 Alpha = 0.915492957746479 	 BestP = 1.0236604991045952 	 time = 0.533129085 
+
+Group 105 in category 4 has size 26 and cond = 0.9970792259948886
+Superset: |R| = 78, condR = 0.9385, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.098 	 RE = 0.192 	 F1 = 0.13 	 Size = 51 	 Cond = 0.9251 	 Time = 0.558352819 
+Learning Alpha: 	PR = 0.098 	 RE = 0.192 	 F1 = 0.13 	 Size = 51 	 Alpha = 0.9251184834123223 	 BestP = 1.0141799869070676 	 time = 0.672162345 
+
+Group 106 in category 4 has size 22 and cond = 1.0
+Superset: |R| = 66, condR = 0.9347, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.111 	 RE = 0.045 	 F1 = 0.065 	 Size = 9 	 Cond = 0.8402 	 Time = 0.309069829 
+Learning Alpha: 	PR = 0.115 	 RE = 0.136 	 F1 = 0.125 	 Size = 26 	 Alpha = 0.8801775147928994 	 BestP = 1.0336079686133346 	 time = 0.560914969 
+
+Group 110 in category 4 has size 22 and cond = 0.9988623435722411
+Superset: |R| = 66, condR = 0.9554, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.045 	 RE = 0.045 	 F1 = 0.045 	 Size = 22 	 Cond = 0.9066 	 Time = 0.289882253 
+Learning Alpha: 	PR = 0.045 	 RE = 0.045 	 F1 = 0.045 	 Size = 22 	 Alpha = 0.9066118789689951 	 BestP = 1.0231742125939596 	 time = 0.274572221 
+
+Group 113 in category 4 has size 29 and cond = 0.9987849331713244
+Superset: |R| = 87, condR = 0.9405, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.111 	 RE = 0.034 	 F1 = 0.053 	 Size = 9 	 Cond = 0.6226 	 Time = 0.360078812 
+Learning Alpha: 	PR = 0.083 	 RE = 0.069 	 F1 = 0.075 	 Size = 24 	 Alpha = 0.9056603773584906 	 BestP = 1.0297002828339856 	 time = 0.80733432 
+
+Group 115 in category 4 has size 22 and cond = 1.0
+Superset: |R| = 66, condR = 0.9458, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.05 	 RE = 0.045 	 F1 = 0.048 	 Size = 20 	 Cond = 0.9194 	 Time = 0.452601135 
+Learning Alpha: 	PR = 0.05 	 RE = 0.045 	 F1 = 0.048 	 Size = 20 	 Alpha = 0.9193729003359462 	 BestP = 1.0140991655527893 	 time = 0.355891153 
+
+Group 116 in category 4 has size 65 and cond = 0.9955623826591569
+Superset: |R| = 195, condR = 0.8959, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.042 	 RE = 0.031 	 F1 = 0.035 	 Size = 48 	 Cond = 0.8015 	 Time = 1.063001938 
+Learning Alpha: 	PR = 0.042 	 RE = 0.031 	 F1 = 0.035 	 Size = 48 	 Alpha = 0.8014695288863276 	 BestP = 1.0466906176320327 	 time = 1.130477544 
+
+Group 119 in category 4 has size 54 and cond = 0.9966921645648129
+Superset: |R| = 162, condR = 0.9412, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.059 	 RE = 0.019 	 F1 = 0.028 	 Size = 17 	 Cond = 0.7906 	 Time = 0.698083855 
+Learning Alpha: 	PR = 0.064 	 RE = 0.093 	 F1 = 0.076 	 Size = 78 	 Alpha = 0.9214830970556162 	 BestP = 1.0364088318487361 	 time = 1.381572694 
+
+Group 122 in category 4 has size 22 and cond = 0.9977740678909294
+Superset: |R| = 66, condR = 0.9649, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.1 	 RE = 0.045 	 F1 = 0.063 	 Size = 10 	 Cond = 0.8722 	 Time = 0.39683886 
+Learning Alpha: 	PR = 0.1 	 RE = 0.091 	 F1 = 0.095 	 Size = 20 	 Alpha = 0.952088452088452 	 BestP = 1.0211852111001702 	 time = 0.561113209 
+
+Group 126 in category 4 has size 31 and cond = 0.9922178988326849
+Superset: |R| = 93, condR = 0.9592, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.065 	 F1 = 0.121 	 Size = 2 	 Cond = 0.5 	 Time = 0.440577903 
+Learning Alpha: 	PR = 0.216 	 RE = 0.258 	 F1 = 0.235 	 Size = 37 	 Alpha = 0.9375 	 BestP = 1.0118919369748192 	 time = 0.813037118 
+
+Group 132 in category 4 has size 28 and cond = 0.9901816396661758
+Superset: |R| = 84, condR = 0.9486, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.042 	 RE = 0.036 	 F1 = 0.038 	 Size = 24 	 Cond = 0.8925 	 Time = 0.365860554 
+Learning Alpha: 	PR = 0.042 	 RE = 0.036 	 F1 = 0.038 	 Size = 24 	 Alpha = 0.8924551896623594 	 BestP = 1.0204771366739942 	 time = 0.532402736 
+
+Group 135 in category 4 has size 22 and cond = 0.998015873015873
+Superset: |R| = 66, condR = 0.9588, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.118 	 RE = 0.091 	 F1 = 0.103 	 Size = 17 	 Cond = 0.7742 	 Time = 0.361530859 
+Learning Alpha: 	PR = 0.095 	 RE = 0.091 	 F1 = 0.093 	 Size = 21 	 Alpha = 0.844758064516129 	 BestP = 1.021749742013945 	 time = 0.929276763 
+
+Group 136 in category 4 has size 44 and cond = 0.9838709677419355
+Superset: |R| = 132, condR = 0.9503, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.111 	 RE = 0.023 	 F1 = 0.038 	 Size = 9 	 Cond = 0.6818 	 Time = 0.639967215 
+Learning Alpha: 	PR = 0.167 	 RE = 0.227 	 F1 = 0.192 	 Size = 60 	 Alpha = 0.9204545454545454 	 BestP = 1.0231983981839126 	 time = 1.273103345 
+
+Group 139 in category 4 has size 29 and cond = 0.9980861244019139
+Superset: |R| = 87, condR = 0.9511, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.034 	 F1 = 0.049 	 Size = 12 	 Cond = 0.7865 	 Time = 0.398457224 
+Learning Alpha: 	PR = 0.089 	 RE = 0.138 	 F1 = 0.108 	 Size = 45 	 Alpha = 0.9466145833333334 	 BestP = 1.0364221870440589 	 time = 0.795535946 
+
+Group 142 in category 4 has size 23 and cond = 0.996039603960396
+Superset: |R| = 69, condR = 0.9824, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.167 	 RE = 0.043 	 F1 = 0.069 	 Size = 6 	 Cond = 0.8286 	 Time = 0.579747775 
+Learning Alpha: 	PR = 0.091 	 RE = 0.043 	 F1 = 0.059 	 Size = 11 	 Alpha = 0.9571428571428572 	 BestP = 1.008517198913258 	 time = 0.802096678 
+
+Group 153 in category 4 has size 22 and cond = 0.9989964877069744
+Superset: |R| = 66, condR = 0.9684, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.091 	 F1 = 0.167 	 Size = 2 	 Cond = 0.8 	 Time = 0.345401549 
+Learning Alpha: 	PR = 1.0 	 RE = 0.091 	 F1 = 0.167 	 Size = 2 	 Alpha = 0.95 	 BestP = 1.0095958422855815 	 time = 0.520462828 
+
+Metadata attribute number 5
+
+Group 1 in category 5 has size 294 and cond = 0.9082869308876514
+Superset: |R| = 882, condR = 0.8351, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.007 	 F1 = 0.014 	 Size = 2 	 Cond = 0.6667 	 Time = 1.851440182 
+Learning Alpha: 	PR = 0.321 	 RE = 0.456 	 F1 = 0.377 	 Size = 417 	 Alpha = 0.8125 	 BestP = 1.0455403940113874 	 time = 3.646272794 
+
+Group 2 in category 5 has size 60 and cond = 0.7076271186440678
+Superset: |R| = 180, condR = 0.8233, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.679 	 RE = 0.95 	 F1 = 0.792 	 Size = 84 	 Cond = 0.6422 	 Time = 1.054390272 
+Learning Alpha: 	PR = 0.679 	 RE = 0.95 	 F1 = 0.792 	 Size = 84 	 Alpha = 0.6421672339251219 	 BestP = 1.0257649320820785 	 time = 1.413757904 
+
+Group 3 in category 5 has size 3911 and cond = 0.7839658059718637
+Superset: |R| = 11733, condR = 0.4155, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.412 	 RE = 0.104 	 F1 = 0.165 	 Size = 984 	 Cond = 0.3417 	 Time = 8.757574294 
+Learning Alpha: 	PR = 0.412 	 RE = 0.104 	 F1 = 0.165 	 Size = 984 	 Alpha = 0.34166148378498445 	 BestP = 1.3192353599845978 	 time = 16.266009768 
+
+Group 4 in category 5 has size 92 and cond = 0.6542316677971212
+Superset: |R| = 276, condR = 0.8144, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.915 	 RE = 0.935 	 F1 = 0.925 	 Size = 94 	 Cond = 0.6202 	 Time = 1.205949529 
+Learning Alpha: 	PR = 0.882 	 RE = 0.978 	 F1 = 0.928 	 Size = 102 	 Alpha = 0.6676686041882316 	 BestP = 1.0151731722828095 	 time = 2.398340326 
+
+Group 5 in category 5 has size 389 and cond = 0.7571653428017131
+Superset: |R| = 1167, condR = 0.8116, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.99 	 RE = 0.494 	 F1 = 0.659 	 Size = 194 	 Cond = 0.6109 	 Time = 1.685720083 
+Learning Alpha: 	PR = 0.546 	 RE = 0.612 	 F1 = 0.577 	 Size = 436 	 Alpha = 0.7811199999999999 	 BestP = 1.0281203828199277 	 time = 3.804379657 
+
+Group 6 in category 5 has size 487 and cond = 0.860744698614126
+Superset: |R| = 1461, condR = 0.6622, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.188 	 RE = 0.205 	 F1 = 0.196 	 Size = 531 	 Cond = 0.5451 	 Time = 4.731444222 
+Learning Alpha: 	PR = 0.188 	 RE = 0.205 	 F1 = 0.196 	 Size = 531 	 Alpha = 0.5450958511019888 	 BestP = 1.0987570792112564 	 time = 6.795868893 
+
+Group 7 in category 5 has size 364 and cond = 0.8319112627986348
+Superset: |R| = 1092, condR = 0.8049, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.021 	 RE = 0.005 	 F1 = 0.009 	 Size = 94 	 Cond = 0.6815 	 Time = 2.021643909 
+Learning Alpha: 	PR = 0.512 	 RE = 0.533 	 F1 = 0.522 	 Size = 379 	 Alpha = 0.7611371808154062 	 BestP = 1.038614463883349 	 time = 4.263843668 
+
+Group 9 in category 5 has size 607 and cond = 0.8577879656160459
+Superset: |R| = 1821, condR = 0.7753, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.133 	 RE = 0.003 	 F1 = 0.006 	 Size = 15 	 Cond = 0.6859 	 Time = 2.845644111 
+Learning Alpha: 	PR = 0.394 	 RE = 0.535 	 F1 = 0.454 	 Size = 824 	 Alpha = 0.7251732101616628 	 BestP = 1.0437472925371953 	 time = 4.415234748 
+
+Group 10 in category 5 has size 653 and cond = 0.6946099203668448
+Superset: |R| = 1959, condR = 0.7085, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.72 	 RE = 0.501 	 F1 = 0.591 	 Size = 454 	 Cond = 0.5137 	 Time = 2.982654995 
+Learning Alpha: 	PR = 0.582 	 RE = 0.574 	 F1 = 0.578 	 Size = 644 	 Alpha = 0.6049174488769695 	 BestP = 1.0594420726086518 	 time = 7.498164198 
+
+Group 11 in category 5 has size 468 and cond = 0.8258441558441558
+Superset: |R| = 1404, condR = 0.7011, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.18 	 RE = 0.173 	 F1 = 0.177 	 Size = 449 	 Cond = 0.6008 	 Time = 3.855564331 
+Learning Alpha: 	PR = 0.18 	 RE = 0.173 	 F1 = 0.177 	 Size = 449 	 Alpha = 0.6007654869347446 	 BestP = 1.0641968319389121 	 time = 4.53179334 
+
+Group 12 in category 5 has size 78 and cond = 0.7227496282740478
+Superset: |R| = 234, condR = 0.8282, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.956 	 RE = 0.833 	 F1 = 0.89 	 Size = 68 	 Cond = 0.712 	 Time = 1.085301063 
+Learning Alpha: 	PR = 0.958 	 RE = 0.872 	 F1 = 0.913 	 Size = 71 	 Alpha = 0.7479648030647672 	 BestP = 1.0031525530856937 	 time = 2.073559329 
+
+Group 13 in category 5 has size 120 and cond = 0.7126474442988204
+Superset: |R| = 360, condR = 0.8524, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.944 	 RE = 0.7 	 F1 = 0.804 	 Size = 89 	 Cond = 0.6405 	 Time = 0.867263002 
+Learning Alpha: 	PR = 0.72 	 RE = 0.75 	 F1 = 0.735 	 Size = 125 	 Alpha = 0.7303814116615519 	 BestP = 1.0164285933848616 	 time = 1.351717887 
+
+Group 14 in category 5 has size 185 and cond = 0.9614945341817589
+Superset: |R| = 555, condR = 0.8697, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.069 	 RE = 0.027 	 F1 = 0.039 	 Size = 72 	 Cond = 0.7849 	 Time = 1.593034464 
+Learning Alpha: 	PR = 0.093 	 RE = 0.092 	 F1 = 0.092 	 Size = 183 	 Alpha = 0.8386799410029497 	 BestP = 1.0515571248403413 	 time = 3.028791089 
+
+Group 15 in category 5 has size 45 and cond = 0.8033763654419066
+Superset: |R| = 135, condR = 0.8395, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.808 	 RE = 0.933 	 F1 = 0.866 	 Size = 52 	 Cond = 0.7598 	 Time = 0.606774483 
+Learning Alpha: 	PR = 0.808 	 RE = 0.933 	 F1 = 0.866 	 Size = 52 	 Alpha = 0.7598332175121613 	 BestP = 1.0167388933774046 	 time = 1.048032511 
+
+Group 16 in category 5 has size 59 and cond = 0.9801242236024845
+Superset: |R| = 177, condR = 0.8676, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.083 	 RE = 0.034 	 F1 = 0.048 	 Size = 24 	 Cond = 0.6497 	 Time = 0.556569828 
+Learning Alpha: 	PR = 0.051 	 RE = 0.085 	 F1 = 0.063 	 Size = 99 	 Alpha = 0.8248587570621468 	 BestP = 1.0514013908865152 	 time = 0.975585076 
+
+Group 17 in category 5 has size 123 and cond = 0.6483383685800604
+Superset: |R| = 369, condR = 0.7534, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.838 	 RE = 0.967 	 F1 = 0.898 	 Size = 142 	 Cond = 0.5887 	 Time = 1.012470283 
+Learning Alpha: 	PR = 0.838 	 RE = 0.967 	 F1 = 0.898 	 Size = 142 	 Alpha = 0.5887154009936125 	 BestP = 1.0304077193696513 	 time = 2.332891226 
+
+Group 18 in category 5 has size 174 and cond = 0.6566018933731939
+Superset: |R| = 522, condR = 0.8152, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.978 	 RE = 0.764 	 F1 = 0.858 	 Size = 136 	 Cond = 0.5852 	 Time = 1.004117502 
+Learning Alpha: 	PR = 0.75 	 RE = 0.862 	 F1 = 0.802 	 Size = 200 	 Alpha = 0.7018610154905336 	 BestP = 1.0164867118270728 	 time = 2.046921305 
+
+Group 19 in category 5 has size 66 and cond = 0.7004110996916753
+Superset: |R| = 198, condR = 0.7514, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.688 	 RE = 0.97 	 F1 = 0.805 	 Size = 93 	 Cond = 0.5738 	 Time = 0.833702077 
+Learning Alpha: 	PR = 0.688 	 RE = 0.97 	 F1 = 0.805 	 Size = 93 	 Alpha = 0.573773567207579 	 BestP = 1.0594630420945426 	 time = 1.37047744 
+
+Group 20 in category 5 has size 57 and cond = 0.7569647121252322
+Superset: |R| = 171, condR = 0.8621, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.964 	 RE = 0.93 	 F1 = 0.946 	 Size = 55 	 Cond = 0.7463 	 Time = 0.560756221 
+Learning Alpha: 	PR = 0.93 	 RE = 0.93 	 F1 = 0.93 	 Size = 57 	 Alpha = 0.793859950522265 	 BestP = 1.003195298575075 	 time = 1.821836631 
+
+Group 21 in category 5 has size 602 and cond = 0.762990179401692
+Superset: |R| = 1806, condR = 0.7474, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.913 	 RE = 0.244 	 F1 = 0.385 	 Size = 161 	 Cond = 0.6098 	 Time = 2.376303242 
+Learning Alpha: 	PR = 0.91 	 RE = 0.252 	 F1 = 0.395 	 Size = 167 	 Alpha = 0.6341463414634145 	 BestP = 1.0451615219802128 	 time = 5.622064116 
+
+Group 22 in category 5 has size 124 and cond = 0.5777687111836438
+Superset: |R| = 372, condR = 0.6909, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.809 	 RE = 0.992 	 F1 = 0.891 	 Size = 152 	 Cond = 0.472 	 Time = 1.014785618 
+Learning Alpha: 	PR = 0.809 	 RE = 0.992 	 F1 = 0.891 	 Size = 152 	 Alpha = 0.47203818479732135 	 BestP = 1.0815793407114906 	 time = 2.181880106 
+
+Group 23 in category 5 has size 83 and cond = 0.6053325926954589
+Superset: |R| = 249, condR = 0.8192, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.929 	 RE = 0.94 	 F1 = 0.934 	 Size = 84 	 Cond = 0.5937 	 Time = 0.807989194 
+Learning Alpha: 	PR = 0.919 	 RE = 0.952 	 F1 = 0.935 	 Size = 86 	 Alpha = 0.6191234622144113 	 BestP = 1.0040573596081561 	 time = 1.771784656 
+
+Group 24 in category 5 has size 48 and cond = 0.8092808164567055
+Superset: |R| = 144, condR = 0.797, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.49 	 RE = 0.979 	 F1 = 0.653 	 Size = 96 	 Cond = 0.7014 	 Time = 1.051430188 
+Learning Alpha: 	PR = 0.49 	 RE = 0.979 	 F1 = 0.653 	 Size = 96 	 Alpha = 0.7013732471118216 	 BestP = 1.0364462424867595 	 time = 1.505727339 
+
+Group 25 in category 5 has size 110 and cond = 0.6344999090192273
+Superset: |R| = 330, condR = 0.7003, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.615 	 RE = 0.973 	 F1 = 0.754 	 Size = 174 	 Cond = 0.5425 	 Time = 1.603153567 
+Learning Alpha: 	PR = 0.615 	 RE = 0.973 	 F1 = 0.754 	 Size = 174 	 Alpha = 0.542460458328403 	 BestP = 1.048470100399988 	 time = 2.580248432 
+
+Group 26 in category 5 has size 418 and cond = 0.766152011132463
+Superset: |R| = 1254, condR = 0.8167, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.869 	 RE = 0.6 	 F1 = 0.71 	 Size = 289 	 Cond = 0.6583 	 Time = 1.96465361 
+Learning Alpha: 	PR = 0.618 	 RE = 0.734 	 F1 = 0.671 	 Size = 497 	 Alpha = 0.7864062588261876 	 BestP = 1.020607713871994 	 time = 4.649513026 
+
+Group 27 in category 5 has size 380 and cond = 0.7937133210065118
+Superset: |R| = 1140, condR = 0.7892, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.15 	 RE = 0.016 	 F1 = 0.029 	 Size = 40 	 Cond = 0.6269 	 Time = 1.720564737 
+Learning Alpha: 	PR = 0.576 	 RE = 0.647 	 F1 = 0.61 	 Size = 427 	 Alpha = 0.7667946257197696 	 BestP = 1.0281858695173074 	 time = 3.442402725 
+
+Group 28 in category 5 has size 199 and cond = 0.9152114666397497
+Superset: |R| = 597, condR = 0.8765, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.188 	 RE = 0.015 	 F1 = 0.028 	 Size = 16 	 Cond = 0.7595 	 Time = 1.138967729 
+Learning Alpha: 	PR = 0.549 	 RE = 0.422 	 F1 = 0.477 	 Size = 153 	 Alpha = 0.8346774193548386 	 BestP = 1.0177328734311564 	 time = 2.420040561 
+
+Group 29 in category 5 has size 106 and cond = 0.667899618733284
+Superset: |R| = 318, condR = 0.777, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.82 	 RE = 0.991 	 F1 = 0.897 	 Size = 128 	 Cond = 0.5909 	 Time = 1.409176449 
+Learning Alpha: 	PR = 0.82 	 RE = 0.991 	 F1 = 0.897 	 Size = 128 	 Alpha = 0.5908922277870525 	 BestP = 1.0429806739732133 	 time = 2.76888525 
+
+Group 30 in category 5 has size 273 and cond = 0.8032018742678642
+Superset: |R| = 819, condR = 0.8155, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.148 	 RE = 0.015 	 F1 = 0.027 	 Size = 27 	 Cond = 0.661 	 Time = 1.489892077 
+Learning Alpha: 	PR = 0.47 	 RE = 0.637 	 F1 = 0.541 	 Size = 370 	 Alpha = 0.7033668730650156 	 BestP = 1.0359674691755871 	 time = 2.028911402 
+
+Group 31 in category 5 has size 85 and cond = 0.6104083845319841
+Superset: |R| = 255, condR = 0.7768, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.882 	 RE = 0.965 	 F1 = 0.921 	 Size = 93 	 Cond = 0.5699 	 Time = 0.932889698 
+Learning Alpha: 	PR = 0.882 	 RE = 0.965 	 F1 = 0.921 	 Size = 93 	 Alpha = 0.5699217420891459 	 BestP = 1.0211019620095978 	 time = 1.547986581 
+
+Group 33 in category 5 has size 300 and cond = 0.863856362217018
+Superset: |R| = 900, condR = 0.8194, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.086 	 RE = 0.017 	 F1 = 0.028 	 Size = 58 	 Cond = 0.7079 	 Time = 2.146454373 
+Learning Alpha: 	PR = 0.571 	 RE = 0.347 	 F1 = 0.432 	 Size = 182 	 Alpha = 0.780938123752495 	 BestP = 1.0228811177208916 	 time = 3.302001202 
+
+Group 34 in category 5 has size 123 and cond = 0.6786018755328218
+Superset: |R| = 369, condR = 0.8079, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.924 	 RE = 0.894 	 F1 = 0.909 	 Size = 119 	 Cond = 0.6427 	 Time = 1.569329591 
+Learning Alpha: 	PR = 0.924 	 RE = 0.894 	 F1 = 0.909 	 Size = 119 	 Alpha = 0.6427041072161189 	 BestP = 1.0166764291903319 	 time = 2.842621718 
+
+Group 35 in category 5 has size 98 and cond = 0.6402361384419493
+Superset: |R| = 294, condR = 0.7451, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.738 	 RE = 0.98 	 F1 = 0.842 	 Size = 130 	 Cond = 0.5212 	 Time = 1.367993729 
+Learning Alpha: 	PR = 0.738 	 RE = 0.98 	 F1 = 0.842 	 Size = 130 	 Alpha = 0.5212087958468746 	 BestP = 1.0709869757470474 	 time = 2.981646985 
+
+Group 36 in category 5 has size 238 and cond = 0.9320104271958292
+Superset: |R| = 714, condR = 0.8427, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.029 	 F1 = 0.057 	 Size = 7 	 Cond = 0.6296 	 Time = 2.269641681 
+Learning Alpha: 	PR = 0.24 	 RE = 0.29 	 F1 = 0.263 	 Size = 287 	 Alpha = 0.7916666666666667 	 BestP = 1.0341932980731927 	 time = 4.287427907 
+
+Group 37 in category 5 has size 415 and cond = 0.7837582967610895
+Superset: |R| = 1245, condR = 0.8106, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.726 	 RE = 0.465 	 F1 = 0.567 	 Size = 266 	 Cond = 0.6499 	 Time = 2.046785618 
+Learning Alpha: 	PR = 0.499 	 RE = 0.598 	 F1 = 0.544 	 Size = 497 	 Alpha = 0.7155301442854577 	 BestP = 1.0349371511631256 	 time = 3.639712335 
+
+Group 38 in category 5 has size 233 and cond = 0.8403856454204607
+Superset: |R| = 699, condR = 0.8515, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.627 	 RE = 0.67 	 F1 = 0.647 	 Size = 249 	 Cond = 0.7425 	 Time = 1.186537884 
+Learning Alpha: 	PR = 0.597 	 RE = 0.712 	 F1 = 0.65 	 Size = 278 	 Alpha = 0.7746473532534506 	 BestP = 1.0237264082175355 	 time = 2.08566554 
+
+Group 39 in category 5 has size 670 and cond = 0.6548402562873208
+Superset: |R| = 2010, condR = 0.7249, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.845 	 RE = 0.649 	 F1 = 0.734 	 Size = 515 	 Cond = 0.5624 	 Time = 2.866119294 
+Learning Alpha: 	PR = 0.647 	 RE = 0.725 	 F1 = 0.684 	 Size = 751 	 Alpha = 0.6170851285098797 	 BestP = 1.032962714986938 	 time = 5.922220601 
+
+Group 40 in category 5 has size 134 and cond = 0.629298572315332
+Superset: |R| = 402, condR = 0.7462, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.852 	 RE = 0.985 	 F1 = 0.913 	 Size = 155 	 Cond = 0.5623 	 Time = 1.763073233 
+Learning Alpha: 	PR = 0.852 	 RE = 0.985 	 F1 = 0.913 	 Size = 155 	 Alpha = 0.5622902911570516 	 BestP = 1.037942861699388 	 time = 3.402520152 
+
+Group 41 in category 5 has size 175 and cond = 0.7200811359026369
+Superset: |R| = 525, condR = 0.8223, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.0 	 RE = 0.0 	 F1 = NaN 	 Size = 29 	 Cond = 0.6442 	 Time = 1.568093245 
+Learning Alpha: 	PR = 0.629 	 RE = 0.754 	 F1 = 0.686 	 Size = 210 	 Alpha = 0.7331223628691983 	 BestP = 1.0188221990243649 	 time = 1.957985465 
+
+Group 42 in category 5 has size 102 and cond = 0.7007290400972054
+Superset: |R| = 306, condR = 0.8223, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.832 	 RE = 0.971 	 F1 = 0.896 	 Size = 119 	 Cond = 0.6237 	 Time = 1.093104509 
+Learning Alpha: 	PR = 0.832 	 RE = 0.971 	 F1 = 0.896 	 Size = 119 	 Alpha = 0.623670971422644 	 BestP = 1.037010480516213 	 time = 1.904007182 
+
+Group 45 in category 5 has size 30 and cond = 0.6899862825788752
+Superset: |R| = 90, condR = 0.8776, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.853 	 RE = 0.967 	 F1 = 0.906 	 Size = 34 	 Cond = 0.6472 	 Time = 0.362292261 
+Learning Alpha: 	PR = 0.853 	 RE = 0.967 	 F1 = 0.906 	 Size = 34 	 Alpha = 0.64715860899067 	 BestP = 1.011908122735079 	 time = 0.59982887 
+
+Group 46 in category 5 has size 105 and cond = 0.8995361466229211
+Superset: |R| = 315, condR = 0.8879, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.05 	 RE = 0.019 	 F1 = 0.028 	 Size = 40 	 Cond = 0.7031 	 Time = 1.291590619 
+Learning Alpha: 	PR = 0.476 	 RE = 0.562 	 F1 = 0.515 	 Size = 124 	 Alpha = 0.8701274362818592 	 BestP = 1.0235205045775784 	 time = 2.660309292 
+
+Group 47 in category 5 has size 27 and cond = 0.7149075081610446
+Superset: |R| = 81, condR = 0.8791, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.839 	 RE = 0.963 	 F1 = 0.897 	 Size = 31 	 Cond = 0.6595 	 Time = 0.425707334 
+Learning Alpha: 	PR = 0.839 	 RE = 0.963 	 F1 = 0.897 	 Size = 31 	 Alpha = 0.6595092024539877 	 BestP = 1.0154251870990527 	 time = 0.427716546 
+
+Group 48 in category 5 has size 134 and cond = 0.6221617522416023
+Superset: |R| = 402, condR = 0.7551, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.856 	 RE = 0.978 	 F1 = 0.913 	 Size = 153 	 Cond = 0.5465 	 Time = 1.051071421 
+Learning Alpha: 	PR = 0.856 	 RE = 0.978 	 F1 = 0.913 	 Size = 153 	 Alpha = 0.5465332271882937 	 BestP = 1.0420039537400099 	 time = 2.604910809 
+
+Group 49 in category 5 has size 43 and cond = 0.729447346714325
+Superset: |R| = 129, condR = 0.7849, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.677 	 RE = 0.977 	 F1 = 0.8 	 Size = 62 	 Cond = 0.6219 	 Time = 0.42978132 
+Learning Alpha: 	PR = 0.677 	 RE = 0.977 	 F1 = 0.8 	 Size = 62 	 Alpha = 0.6219187799255187 	 BestP = 1.0461256025321908 	 time = 0.662099988 
+
+Group 50 in category 5 has size 56 and cond = 0.6523006454299396
+Superset: |R| = 168, condR = 0.7057, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.614 	 RE = 0.911 	 F1 = 0.734 	 Size = 83 	 Cond = 0.5362 	 Time = 0.592618214 
+Learning Alpha: 	PR = 0.614 	 RE = 0.911 	 F1 = 0.734 	 Size = 83 	 Alpha = 0.5362134688691232 	 BestP = 1.0544238602994618 	 time = 0.855273015 
+
+Group 51 in category 5 has size 27 and cond = 0.8433957289744266
+Superset: |R| = 81, condR = 0.8836, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.688 	 RE = 0.815 	 F1 = 0.746 	 Size = 32 	 Cond = 0.7617 	 Time = 0.583104335 
+Learning Alpha: 	PR = 0.688 	 RE = 0.815 	 F1 = 0.746 	 Size = 32 	 Alpha = 0.7616525423728814 	 BestP = 1.030540767195792 	 time = 1.007880427 
+
+Group 52 in category 5 has size 75 and cond = 0.6001534919416731
+Superset: |R| = 225, condR = 0.7703, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.779 	 RE = 0.987 	 F1 = 0.871 	 Size = 95 	 Cond = 0.5649 	 Time = 1.212402772 
+Learning Alpha: 	PR = 0.779 	 RE = 0.987 	 F1 = 0.871 	 Size = 95 	 Alpha = 0.5648967551622419 	 BestP = 1.0137669655149604 	 time = 1.709018305 
+
+Group 53 in category 5 has size 320 and cond = 0.8056097696983215
+Superset: |R| = 960, condR = 0.7921, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.854 	 RE = 0.438 	 F1 = 0.579 	 Size = 164 	 Cond = 0.6759 	 Time = 1.551114201 
+Learning Alpha: 	PR = 0.59 	 RE = 0.688 	 F1 = 0.635 	 Size = 373 	 Alpha = 0.696128083646463 	 BestP = 1.0343139793046685 	 time = 2.629240295 
+
+Group 54 in category 5 has size 65 and cond = 0.7594597741297008
+Superset: |R| = 195, condR = 0.7682, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.573 	 RE = 0.969 	 F1 = 0.72 	 Size = 110 	 Cond = 0.6996 	 Time = 1.162609014 
+Learning Alpha: 	PR = 0.573 	 RE = 0.969 	 F1 = 0.72 	 Size = 110 	 Alpha = 0.6995952441183911 	 BestP = 1.0216758414303468 	 time = 1.604183554 
+
+Group 55 in category 5 has size 78 and cond = 0.6784433285509326
+Superset: |R| = 234, condR = 0.7722, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.714 	 RE = 0.962 	 F1 = 0.82 	 Size = 105 	 Cond = 0.5504 	 Time = 0.88929383 
+Learning Alpha: 	PR = 0.714 	 RE = 0.962 	 F1 = 0.82 	 Size = 105 	 Alpha = 0.5504052324754728 	 BestP = 1.0741146644012423 	 time = 2.196869553 
+
+Group 56 in category 5 has size 190 and cond = 0.732520257288447
+Superset: |R| = 570, condR = 0.8433, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.735 	 RE = 0.7 	 F1 = 0.717 	 Size = 181 	 Cond = 0.6816 	 Time = 1.143507167 
+Learning Alpha: 	PR = 0.616 	 RE = 0.795 	 F1 = 0.694 	 Size = 245 	 Alpha = 0.7412668665667166 	 BestP = 1.0142677482132827 	 time = 2.14126628 
+
+Group 57 in category 5 has size 241 and cond = 0.8326195574589579
+Superset: |R| = 723, condR = 0.8402, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.241 	 RE = 0.029 	 F1 = 0.052 	 Size = 29 	 Cond = 0.6626 	 Time = 1.169492548 
+Learning Alpha: 	PR = 0.439 	 RE = 0.581 	 F1 = 0.5 	 Size = 319 	 Alpha = 0.7469696969696971 	 BestP = 1.0393562719949154 	 time = 1.992967319 
+
+Group 58 in category 5 has size 223 and cond = 0.9246840775063184
+Superset: |R| = 669, condR = 0.8495, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.448 	 RE = 0.233 	 F1 = 0.307 	 Size = 116 	 Cond = 0.7977 	 Time = 2.105191146 
+Learning Alpha: 	PR = 0.42 	 RE = 0.269 	 F1 = 0.328 	 Size = 143 	 Alpha = 0.8229588530698202 	 BestP = 1.0384751494351474 	 time = 3.208107226 
+
+Group 59 in category 5 has size 39 and cond = 0.7157784743991641
+Superset: |R| = 117, condR = 0.8668, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.826 	 RE = 0.974 	 F1 = 0.894 	 Size = 46 	 Cond = 0.6944 	 Time = 0.726989237 
+Learning Alpha: 	PR = 0.826 	 RE = 0.974 	 F1 = 0.894 	 Size = 46 	 Alpha = 0.6944210821418559 	 BestP = 1.004855358842759 	 time = 0.869153951 
+
+Group 60 in category 5 has size 63 and cond = 0.7173946360153257
+Superset: |R| = 189, condR = 0.8645, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.951 	 RE = 0.921 	 F1 = 0.935 	 Size = 61 	 Cond = 0.7049 	 Time = 0.713603182 
+Learning Alpha: 	PR = 0.937 	 RE = 0.937 	 F1 = 0.937 	 Size = 63 	 Alpha = 0.7233801810385898 	 BestP = 1.003700775552685 	 time = 1.55387648 
+
+Group 61 in category 5 has size 272 and cond = 0.8157570151094665
+Superset: |R| = 816, condR = 0.8313, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.5 	 RE = 0.022 	 F1 = 0.042 	 Size = 12 	 Cond = 0.6923 	 Time = 1.361457991 
+Learning Alpha: 	PR = 0.627 	 RE = 0.599 	 F1 = 0.613 	 Size = 260 	 Alpha = 0.75 	 BestP = 1.0179266930652857 	 time = 2.145166482 
+
+Group 62 in category 5 has size 154 and cond = 0.8154726068633353
+Superset: |R| = 462, condR = 0.85, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.029 	 RE = 0.006 	 F1 = 0.011 	 Size = 35 	 Cond = 0.6361 	 Time = 0.913117477 
+Learning Alpha: 	PR = 0.041 	 RE = 0.019 	 F1 = 0.026 	 Size = 73 	 Alpha = 0.7043054427294881 	 BestP = 1.0356217202746703 	 time = 1.620836553 
+
+Group 63 in category 5 has size 130 and cond = 0.6208673411817806
+Superset: |R| = 390, condR = 0.7475, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.873 	 RE = 0.954 	 F1 = 0.912 	 Size = 142 	 Cond = 0.5743 	 Time = 1.586177655 
+Learning Alpha: 	PR = 0.873 	 RE = 0.954 	 F1 = 0.912 	 Size = 142 	 Alpha = 0.5742503907915305 	 BestP = 1.0275191628184466 	 time = 3.494383554 
+
+Group 64 in category 5 has size 131 and cond = 0.6055471368875419
+Superset: |R| = 393, condR = 0.7437, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.895 	 RE = 0.977 	 F1 = 0.934 	 Size = 143 	 Cond = 0.5552 	 Time = 1.189539709 
+Learning Alpha: 	PR = 0.895 	 RE = 0.977 	 F1 = 0.934 	 Size = 143 	 Alpha = 0.5551683100986059 	 BestP = 1.0307071236703669 	 time = 1.912209363 
+
+Group 65 in category 5 has size 130 and cond = 0.6439967140818885
+Superset: |R| = 390, condR = 0.755, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.88 	 RE = 0.962 	 F1 = 0.919 	 Size = 142 	 Cond = 0.6095 	 Time = 1.212176058 
+Learning Alpha: 	PR = 0.88 	 RE = 0.962 	 F1 = 0.919 	 Size = 142 	 Alpha = 0.6095030038230476 	 BestP = 1.0184384215859572 	 time = 2.305151755 
+
+Group 66 in category 5 has size 47 and cond = 0.7585172109443954
+Superset: |R| = 141, condR = 0.7437, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.613 	 RE = 0.979 	 F1 = 0.754 	 Size = 75 	 Cond = 0.6118 	 Time = 0.498499208 
+Learning Alpha: 	PR = 0.613 	 RE = 0.979 	 F1 = 0.754 	 Size = 75 	 Alpha = 0.6118055555555556 	 BestP = 1.0791928020150503 	 time = 1.082101073 
+
+Group 67 in category 5 has size 25 and cond = 0.9887780548628429
+Superset: |R| = 75, condR = 0.9409, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.056 	 RE = 0.04 	 F1 = 0.047 	 Size = 18 	 Cond = 0.7483 	 Time = 0.349838749 
+Learning Alpha: 	PR = 0.172 	 RE = 0.2 	 F1 = 0.185 	 Size = 29 	 Alpha = 0.9370677731673582 	 BestP = 1.0402767001625528 	 time = 0.616601482 
+
+Group 69 in category 5 has size 251 and cond = 0.7157455683003128
+Superset: |R| = 753, condR = 0.7637, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.651 	 RE = 0.841 	 F1 = 0.734 	 Size = 324 	 Cond = 0.6282 	 Time = 1.195397428 
+Learning Alpha: 	PR = 0.651 	 RE = 0.841 	 F1 = 0.734 	 Size = 324 	 Alpha = 0.6281735651638714 	 BestP = 1.0369069222138794 	 time = 1.632495396 
+
+Group 70 in category 5 has size 79 and cond = 0.7433595211372989
+Superset: |R| = 237, condR = 0.8469, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.872 	 RE = 0.861 	 F1 = 0.866 	 Size = 78 	 Cond = 0.6857 	 Time = 0.897723427 
+Learning Alpha: 	PR = 0.783 	 RE = 0.911 	 F1 = 0.842 	 Size = 92 	 Alpha = 0.7643003412969284 	 BestP = 1.0172471005543808 	 time = 2.194975533 
+
+Group 71 in category 5 has size 71 and cond = 0.7710445937690898
+Superset: |R| = 213, condR = 0.8144, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.924 	 RE = 0.859 	 F1 = 0.891 	 Size = 66 	 Cond = 0.7348 	 Time = 1.0428351 
+Learning Alpha: 	PR = 0.899 	 RE = 0.873 	 F1 = 0.886 	 Size = 69 	 Alpha = 0.7845351294241945 	 BestP = 1.010373397010418 	 time = 2.341948836 
+
+Group 72 in category 5 has size 127 and cond = 0.6168777151307884
+Superset: |R| = 381, condR = 0.7713, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.862 	 RE = 0.984 	 F1 = 0.919 	 Size = 145 	 Cond = 0.551 	 Time = 1.480676677 
+Learning Alpha: 	PR = 0.862 	 RE = 0.984 	 F1 = 0.919 	 Size = 145 	 Alpha = 0.5509968693359697 	 BestP = 1.0381506011111712 	 time = 3.034191895 
+
+Group 73 in category 5 has size 93 and cond = 0.6796204834936314
+Superset: |R| = 279, condR = 0.7741, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.853 	 RE = 0.935 	 F1 = 0.892 	 Size = 102 	 Cond = 0.6188 	 Time = 1.595268044 
+Learning Alpha: 	PR = 0.853 	 RE = 0.935 	 F1 = 0.892 	 Size = 102 	 Alpha = 0.6187949534253037 	 BestP = 1.0334473679349434 	 time = 2.362373637 
+
+Group 74 in category 5 has size 100 and cond = 0.6934306569343066
+Superset: |R| = 300, condR = 0.8045, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.906 	 RE = 0.96 	 F1 = 0.932 	 Size = 106 	 Cond = 0.663 	 Time = 1.407981726 
+Learning Alpha: 	PR = 0.906 	 RE = 0.96 	 F1 = 0.932 	 Size = 106 	 Alpha = 0.663034161870944 	 BestP = 1.0117556098856977 	 time = 1.841960438 
+
+Group 75 in category 5 has size 141 and cond = 0.8309440086556668
+Superset: |R| = 423, condR = 0.8839, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.64 	 RE = 0.113 	 F1 = 0.193 	 Size = 25 	 Cond = 0.7015 	 Time = 1.110427234 
+Learning Alpha: 	PR = 0.576 	 RE = 0.702 	 F1 = 0.633 	 Size = 172 	 Alpha = 0.8134328358208955 	 BestP = 1.0149522418311068 	 time = 1.809075894 
+
+Group 76 in category 5 has size 49 and cond = 0.8205065158593557
+Superset: |R| = 147, condR = 0.8523, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.529 	 RE = 0.939 	 F1 = 0.676 	 Size = 87 	 Cond = 0.7205 	 Time = 0.83688105 
+Learning Alpha: 	PR = 0.529 	 RE = 0.939 	 F1 = 0.676 	 Size = 87 	 Alpha = 0.7205467563462791 	 BestP = 1.0207405565500633 	 time = 1.242831608 
+
+Group 78 in category 5 has size 145 and cond = 0.6203493952774045
+Superset: |R| = 435, condR = 0.7372, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.881 	 RE = 0.966 	 F1 = 0.921 	 Size = 159 	 Cond = 0.5568 	 Time = 1.691978368 
+Learning Alpha: 	PR = 0.881 	 RE = 0.966 	 F1 = 0.921 	 Size = 159 	 Alpha = 0.556829035339064 	 BestP = 1.0399758816845506 	 time = 3.296865164 
+
+Group 79 in category 5 has size 91 and cond = 0.6560840024706609
+Superset: |R| = 273, condR = 0.6711, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.604 	 RE = 0.956 	 F1 = 0.74 	 Size = 144 	 Cond = 0.5832 	 Time = 1.488849467 
+Learning Alpha: 	PR = 0.604 	 RE = 0.956 	 F1 = 0.74 	 Size = 144 	 Alpha = 0.5832404902116823 	 BestP = 1.0423375519065285 	 time = 2.495323994 
+
+Group 80 in category 5 has size 42 and cond = 0.7533946561541831
+Superset: |R| = 126, condR = 0.8581, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.886 	 RE = 0.929 	 F1 = 0.907 	 Size = 44 	 Cond = 0.7307 	 Time = 0.450279737 
+Learning Alpha: 	PR = 0.886 	 RE = 0.929 	 F1 = 0.907 	 Size = 44 	 Alpha = 0.7306843267108167 	 BestP = 1.008584285498124 	 time = 0.684095932 
+
+Group 81 in category 5 has size 80 and cond = 0.8489228251977093
+Superset: |R| = 240, condR = 0.9125, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.767 	 RE = 0.412 	 F1 = 0.537 	 Size = 43 	 Cond = 0.7532 	 Time = 1.007904891 
+Learning Alpha: 	PR = 0.788 	 RE = 0.788 	 F1 = 0.788 	 Size = 80 	 Alpha = 0.8611725663716814 	 BestP = 1.009212796599277 	 time = 2.003439489 
+
+Group 82 in category 5 has size 25 and cond = 0.9103277674706246
+Superset: |R| = 75, condR = 0.8801, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.438 	 RE = 0.84 	 F1 = 0.575 	 Size = 48 	 Cond = 0.8381 	 Time = 0.41158778 
+Learning Alpha: 	PR = 0.438 	 RE = 0.84 	 F1 = 0.575 	 Size = 48 	 Alpha = 0.8380555156047749 	 BestP = 1.0231986167342597 	 time = 0.587009315 
+
+Group 85 in category 5 has size 23 and cond = 0.8074356530028599
+Superset: |R| = 69, condR = 0.903, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.778 	 RE = 0.913 	 F1 = 0.84 	 Size = 27 	 Cond = 0.7555 	 Time = 0.413448099 
+Learning Alpha: 	PR = 0.786 	 RE = 0.957 	 F1 = 0.863 	 Size = 28 	 Alpha = 0.7707423580786026 	 BestP = 1.0151855740527138 	 time = 0.721830732 
+
+Group 86 in category 5 has size 99 and cond = 0.6929972716642848
+Superset: |R| = 297, condR = 0.7894, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.845 	 RE = 0.939 	 F1 = 0.89 	 Size = 110 	 Cond = 0.6567 	 Time = 1.316138761 
+Learning Alpha: 	PR = 0.845 	 RE = 0.939 	 F1 = 0.89 	 Size = 110 	 Alpha = 0.656732701693942 	 BestP = 1.0147212954267297 	 time = 2.459053107 
+
+Group 87 in category 5 has size 29 and cond = 0.8402866649603277
+Superset: |R| = 87, condR = 0.8839, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.9 	 RE = 0.931 	 F1 = 0.915 	 Size = 30 	 Cond = 0.8262 	 Time = 0.457079563 
+Learning Alpha: 	PR = 0.9 	 RE = 0.931 	 F1 = 0.915 	 Size = 30 	 Alpha = 0.826186392224128 	 BestP = 1.003773817690593 	 time = 0.609708248 
+
+Group 89 in category 5 has size 136 and cond = 0.6318955687492628
+Superset: |R| = 408, condR = 0.7333, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.815 	 RE = 0.971 	 F1 = 0.886 	 Size = 162 	 Cond = 0.5459 	 Time = 0.966672318 
+Learning Alpha: 	PR = 0.815 	 RE = 0.971 	 F1 = 0.886 	 Size = 162 	 Alpha = 0.5458744984320734 	 BestP = 1.0576409529065747 	 time = 2.399259312 
+
+Group 91 in category 5 has size 38 and cond = 0.7332960581492871
+Superset: |R| = 114, condR = 0.8331, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.878 	 RE = 0.947 	 F1 = 0.911 	 Size = 41 	 Cond = 0.6885 	 Time = 0.583070904 
+Learning Alpha: 	PR = 0.878 	 RE = 0.947 	 F1 = 0.911 	 Size = 41 	 Alpha = 0.6884752258417739 	 BestP = 1.0172699784679642 	 time = 0.802028306 
+
+Group 92 in category 5 has size 129 and cond = 0.6479558097016377
+Superset: |R| = 387, condR = 0.7421, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.829 	 RE = 0.977 	 F1 = 0.897 	 Size = 152 	 Cond = 0.5594 	 Time = 1.273741661 
+Learning Alpha: 	PR = 0.829 	 RE = 0.977 	 F1 = 0.897 	 Size = 152 	 Alpha = 0.559360803126092 	 BestP = 1.0570041143165616 	 time = 3.003142118 
+
+Group 95 in category 5 has size 21 and cond = 0.9080712557730372
+Superset: |R| = 63, condR = 0.9144, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.8 	 RE = 0.952 	 F1 = 0.87 	 Size = 25 	 Cond = 0.8954 	 Time = 0.575091635 
+Learning Alpha: 	PR = 0.8 	 RE = 0.952 	 F1 = 0.87 	 Size = 25 	 Alpha = 0.8953807213668002 	 BestP = 1.004081196375595 	 time = 0.516880482 
+
+Group 97 in category 5 has size 52 and cond = 0.704638783269962
+Superset: |R| = 156, condR = 0.7856, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.739 	 RE = 0.981 	 F1 = 0.843 	 Size = 69 	 Cond = 0.6243 	 Time = 0.494040926 
+Learning Alpha: 	PR = 0.739 	 RE = 0.981 	 F1 = 0.843 	 Size = 69 	 Alpha = 0.6242879927090453 	 BestP = 1.0377169131150352 	 time = 0.90842306 
+
+Group 98 in category 5 has size 104 and cond = 0.9538461538461539
+Superset: |R| = 312, condR = 0.9049, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.036 	 RE = 0.01 	 F1 = 0.015 	 Size = 28 	 Cond = 0.787 	 Time = 1.585743276 
+Learning Alpha: 	PR = 0.36 	 RE = 0.394 	 F1 = 0.376 	 Size = 114 	 Alpha = 0.8535750507099391 	 BestP = 1.0353998353445748 	 time = 2.574925125 
+
+Group 99 in category 5 has size 39 and cond = 0.7544233638882968
+Superset: |R| = 117, condR = 0.8463, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.837 	 RE = 0.923 	 F1 = 0.878 	 Size = 43 	 Cond = 0.6882 	 Time = 0.643738346 
+Learning Alpha: 	PR = 0.804 	 RE = 0.949 	 F1 = 0.871 	 Size = 46 	 Alpha = 0.8246370775821038 	 BestP = 1.0233540805918997 	 time = 1.355879792 
+
+Group 100 in category 5 has size 45 and cond = 0.7165296803652969
+Superset: |R| = 135, condR = 0.8549, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.846 	 RE = 0.978 	 F1 = 0.907 	 Size = 52 	 Cond = 0.6789 	 Time = 0.731293386 
+Learning Alpha: 	PR = 0.846 	 RE = 0.978 	 F1 = 0.907 	 Size = 52 	 Alpha = 0.6789264413518886 	 BestP = 1.0125109380778243 	 time = 0.988218446 
+
+Group 101 in category 5 has size 48 and cond = 0.7488087134104833
+Superset: |R| = 144, condR = 0.8176, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.741 	 RE = 0.896 	 F1 = 0.811 	 Size = 58 	 Cond = 0.6403 	 Time = 0.464943864 
+Learning Alpha: 	PR = 0.741 	 RE = 0.896 	 F1 = 0.811 	 Size = 58 	 Alpha = 0.6852421214450423 	 BestP = 1.0449763080973533 	 time = 1.292035117 
+
+Group 102 in category 5 has size 27 and cond = 0.7907239819004525
+Superset: |R| = 81, condR = 0.912, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.735 	 RE = 0.926 	 F1 = 0.82 	 Size = 34 	 Cond = 0.7522 	 Time = 0.460543249 
+Learning Alpha: 	PR = 0.735 	 RE = 0.926 	 F1 = 0.82 	 Size = 34 	 Alpha = 0.7521685254027262 	 BestP = 1.0070476731980742 	 time = 0.668859191 
+
+Group 103 in category 5 has size 45 and cond = 0.7802137571937517
+Superset: |R| = 135, condR = 0.8408, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.755 	 RE = 0.889 	 F1 = 0.816 	 Size = 53 	 Cond = 0.7028 	 Time = 0.360121709 
+Learning Alpha: 	PR = 0.755 	 RE = 0.889 	 F1 = 0.816 	 Size = 53 	 Alpha = 0.7027956989247311 	 BestP = 1.0232429682137656 	 time = 0.689896259 
+
+Group 104 in category 5 has size 62 and cond = 0.9196488858879136
+Superset: |R| = 186, condR = 0.9096, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.55 	 RE = 0.177 	 F1 = 0.268 	 Size = 20 	 Cond = 0.7516 	 Time = 0.618544499 
+Learning Alpha: 	PR = 0.259 	 RE = 0.242 	 F1 = 0.25 	 Size = 58 	 Alpha = 0.7981366459627328 	 BestP = 1.0274839447400261 	 time = 1.340398133 
+
+Group 106 in category 5 has size 29 and cond = 0.7765404602821084
+Superset: |R| = 87, condR = 0.8461, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.737 	 RE = 0.966 	 F1 = 0.836 	 Size = 38 	 Cond = 0.7243 	 Time = 0.473816901 
+Learning Alpha: 	PR = 0.737 	 RE = 0.966 	 F1 = 0.836 	 Size = 38 	 Alpha = 0.7242647058823529 	 BestP = 1.0167959489079739 	 time = 0.495480333 
+
+Group 107 in category 5 has size 22 and cond = 0.8277194919933738
+Superset: |R| = 66, condR = 0.8428, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.708 	 RE = 0.773 	 F1 = 0.739 	 Size = 24 	 Cond = 0.746 	 Time = 0.378538115 
+Learning Alpha: 	PR = 0.708 	 RE = 0.773 	 F1 = 0.739 	 Size = 24 	 Alpha = 0.74604793472718 	 BestP = 1.0277201163372127 	 time = 0.369786528 
+
+Group 110 in category 5 has size 50 and cond = 0.769254852849092
+Superset: |R| = 150, condR = 0.8408, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.789 	 RE = 0.9 	 F1 = 0.841 	 Size = 57 	 Cond = 0.7147 	 Time = 0.796133851 
+Learning Alpha: 	PR = 0.789 	 RE = 0.9 	 F1 = 0.841 	 Size = 57 	 Alpha = 0.7147024504084014 	 BestP = 1.0197636322576535 	 time = 1.1299771 
+
+Group 111 in category 5 has size 22 and cond = 0.8529657477025898
+Superset: |R| = 66, condR = 0.8708, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.633 	 RE = 0.864 	 F1 = 0.731 	 Size = 30 	 Cond = 0.7826 	 Time = 0.340593793 
+Learning Alpha: 	PR = 0.633 	 RE = 0.864 	 F1 = 0.731 	 Size = 30 	 Alpha = 0.7826218589161369 	 BestP = 1.023237401356054 	 time = 0.582310609 
+
+Group 115 in category 5 has size 21 and cond = 0.889034512887724
+Superset: |R| = 63, condR = 0.8948, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.704 	 RE = 0.905 	 F1 = 0.792 	 Size = 27 	 Cond = 0.8132 	 Time = 0.232040588 
+Learning Alpha: 	PR = 0.704 	 RE = 0.905 	 F1 = 0.792 	 Size = 27 	 Alpha = 0.8132193357448207 	 BestP = 1.0286250729881379 	 time = 0.303831498 
+
+Group 117 in category 5 has size 31 and cond = 0.8151632540121748
+Superset: |R| = 93, condR = 0.893, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.806 	 RE = 0.935 	 F1 = 0.866 	 Size = 36 	 Cond = 0.7749 	 Time = 0.410032229 
+Learning Alpha: 	PR = 0.806 	 RE = 0.935 	 F1 = 0.866 	 Size = 36 	 Alpha = 0.774910394265233 	 BestP = 1.0144041954838472 	 time = 0.844217132 
+
+Group 120 in category 5 has size 28 and cond = 0.8676912796525226
+Superset: |R| = 84, condR = 0.8899, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.771 	 RE = 0.964 	 F1 = 0.857 	 Size = 35 	 Cond = 0.8198 	 Time = 0.479137494 
+Learning Alpha: 	PR = 0.771 	 RE = 0.964 	 F1 = 0.857 	 Size = 35 	 Alpha = 0.8198144268183178 	 BestP = 1.0146513050602166 	 time = 0.466816058 
+
+Group 124 in category 5 has size 26 and cond = 0.8099260823653643
+Superset: |R| = 78, condR = 0.8486, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.61 	 RE = 0.962 	 F1 = 0.746 	 Size = 41 	 Cond = 0.723 	 Time = 0.322512953 
+Learning Alpha: 	PR = 0.61 	 RE = 0.962 	 F1 = 0.746 	 Size = 41 	 Alpha = 0.723009281875916 	 BestP = 1.0369943410698392 	 time = 0.509745731 
+
+Group 126 in category 5 has size 45 and cond = 0.7342516378296657
+Superset: |R| = 135, condR = 0.8158, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.776 	 RE = 1.0 	 F1 = 0.874 	 Size = 58 	 Cond = 0.6866 	 Time = 0.569282047 
+Learning Alpha: 	PR = 0.776 	 RE = 1.0 	 F1 = 0.874 	 Size = 58 	 Alpha = 0.6866058046055321 	 BestP = 1.0201994148832108 	 time = 1.221185333 
+
+Group 127 in category 5 has size 33 and cond = 0.7209496043315285
+Superset: |R| = 99, condR = 0.8122, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.721 	 RE = 0.939 	 F1 = 0.816 	 Size = 43 	 Cond = 0.6533 	 Time = 0.360101628 
+Learning Alpha: 	PR = 0.721 	 RE = 0.939 	 F1 = 0.816 	 Size = 43 	 Alpha = 0.6533242876526458 	 BestP = 1.0260182663055673 	 time = 0.497358844 
+
+Group 128 in category 5 has size 31 and cond = 0.9211183225162256
+Superset: |R| = 93, condR = 0.888, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.087 	 RE = 0.065 	 F1 = 0.074 	 Size = 23 	 Cond = 0.6892 	 Time = 0.260140317 
+Learning Alpha: 	PR = 0.188 	 RE = 0.194 	 F1 = 0.19 	 Size = 32 	 Alpha = 0.8834532374100719 	 BestP = 1.052779021955363 	 time = 0.645245264 
+
+Group 130 in category 5 has size 35 and cond = 0.7422885572139304
+Superset: |R| = 105, condR = 0.841, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.765 	 RE = 0.743 	 F1 = 0.754 	 Size = 34 	 Cond = 0.599 	 Time = 0.53002819 
+Learning Alpha: 	PR = 0.683 	 RE = 0.8 	 F1 = 0.737 	 Size = 41 	 Alpha = 0.6366163924436319 	 BestP = 1.0472971887792335 	 time = 0.953019651 
+
+Metadata attribute number 6
+
+Group 1 in category 6 has size 6022 and cond = 0.4200430289651565
+Superset: |R| = 15398, condR = 0.5392, PR = 0.3911, RE = 1.0, F1 = 0.5623
+Min Cond Subset: 	PR = 0.429 	 RE = 0.99 	 F1 = 0.599 	 Size = 13884 	 Cond = 0.2107 	 Time = 15.132125575 
+Learning Alpha: 	PR = 0.429 	 RE = 0.99 	 F1 = 0.599 	 Size = 13884 	 Alpha = 0.21074876027023812 	 BestP = 1.3528721477524608 	 time = 26.227899726 
+
+Group 2 in category 6 has size 4622 and cond = 0.6249505694182104
+Superset: |R| = 13866, condR = 0.4433, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.338 	 RE = 0.989 	 F1 = 0.504 	 Size = 13522 	 Cond = 0.2393 	 Time = 9.026601575 
+Learning Alpha: 	PR = 0.338 	 RE = 0.989 	 F1 = 0.504 	 Size = 13522 	 Alpha = 0.2393487666600358 	 BestP = 1.446848822220338 	 time = 17.389848085 
+
+Group 3 in category 6 has size 5313 and cond = 0.550676167431283
+Superset: |R| = 15398, condR = 0.5153, PR = 0.345, RE = 1.0, F1 = 0.5131
+Min Cond Subset: 	PR = 0.358 	 RE = 0.992 	 F1 = 0.526 	 Size = 14719 	 Cond = 0.1977 	 Time = 15.503164007 
+Learning Alpha: 	PR = 0.358 	 RE = 0.992 	 F1 = 0.526 	 Size = 14719 	 Alpha = 0.1977216585808705 	 BestP = 1.5755387047198341 	 time = 26.304660374 
+
+Group 4 in category 6 has size 5628 and cond = 0.23004853463416008
+Superset: |R| = 15398, condR = 0.4406, PR = 0.3655, RE = 1.0, F1 = 0.5353
+Min Cond Subset: 	PR = 0.927 	 RE = 0.951 	 F1 = 0.939 	 Size = 5774 	 Cond = 0.1915 	 Time = 10.459836192 
+Learning Alpha: 	PR = 0.92 	 RE = 0.966 	 F1 = 0.943 	 Size = 5912 	 Alpha = 0.33046166598998505 	 BestP = 1.0265521131663071 	 time = 35.602024381 
+
+Group 5 in category 6 has size 3798 and cond = 0.6587372355290444
+Superset: |R| = 11394, condR = 0.3756, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.34 	 RE = 0.952 	 F1 = 0.501 	 Size = 10624 	 Cond = 0.3489 	 Time = 10.904001653 
+Learning Alpha: 	PR = 0.34 	 RE = 0.952 	 F1 = 0.501 	 Size = 10624 	 Alpha = 0.34885769826098556 	 BestP = 1.2004114585336854 	 time = 23.23966231 
+
+Group 6 in category 6 has size 1055 and cond = 0.8924075887836906
+Superset: |R| = 3165, condR = 0.7319, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.003 	 F1 = 0.006 	 Size = 3 	 Cond = 0.6 	 Time = 4.326430825 
+Learning Alpha: 	PR = 0.358 	 RE = 0.689 	 F1 = 0.471 	 Size = 2033 	 Alpha = 0.7124999999999999 	 BestP = 1.0417527847762313 	 time = 7.433608304 
+
+Group 7 in category 6 has size 80 and cond = 0.9902727114816745
+Superset: |R| = 240, condR = 0.8539, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 0.017 	 RE = 0.012 	 F1 = 0.014 	 Size = 59 	 Cond = 0.6832 	 Time = 0.873217408 
+Learning Alpha: 	PR = 0.017 	 RE = 0.012 	 F1 = 0.014 	 Size = 59 	 Alpha = 0.6832163369495852 	 BestP = 1.0930435666566418 	 time = 1.320409112 
+
+Group 8 in category 6 has size 164 and cond = 0.9355932203389831
+Superset: |R| = 492, condR = 0.8678, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.024 	 F1 = 0.048 	 Size = 4 	 Cond = 0.6667 	 Time = 0.794243189 
+Learning Alpha: 	PR = 0.277 	 RE = 0.11 	 F1 = 0.157 	 Size = 65 	 Alpha = 0.7291666666666666 	 BestP = 1.0256325607225025 	 time = 1.720271046 
+
+Group 9 in category 6 has size 56 and cond = 0.9754716981132076
+Superset: |R| = 168, condR = 0.9011, PR = 0.3333, RE = 1.0, F1 = 0.5
+Min Cond Subset: 	PR = 1.0 	 RE = 0.036 	 F1 = 0.069 	 Size = 2 	 Cond = 0.7143 	 Time = 0.704542199 
+Learning Alpha: 	PR = 1.0 	 RE = 0.071 	 F1 = 0.133 	 Size = 4 	 Alpha = 0.8392857142857144 	 BestP = 1.0102404832745462 	 time = 0.934043012 
